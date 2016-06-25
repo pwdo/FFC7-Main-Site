@@ -1,0 +1,53 @@
+// Fonts
+$body-text: "Inovato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Color Palette
+$black: #333;
+$white: #ededed;
+$accent: #2200ee;
+
+/* 
+ * Media query
+ *
+ * To use this, just nest the following inside your css declaration.
+ *
+ * @include breakpoint(* pm, lm, t, l, or lx. Choose your target screen size *) {
+ *   New Declaration
+ * }
+ * 
+ * For example:
+ *
+ * img {
+ *   width: 680px;	
+ *   @include breakpoint(pm) {
+ *     width: 100%;
+ *   }
+ * }
+ *
+ * If you use Sublime Text, you can also download and use these snippets
+ * https://github.com/chakler/scss-setup
+ */
+
+
+$break-mobile: 480px;
+$break-tablet: 768px;
+$break-desktop: 1140px;
+$break-HD: 1600px;
+
+@mixin breakpoint($media) {
+  @if $media == pm {
+    @media only screen and (max-width: $break-mobile - 1) { @content; }
+  }
+  @else if $media == lm {
+    @media only screen and (min-width: $break-mobile) and (max-width: $break-tablet - 1) { @content; }
+  }
+  @else if $media == t {
+    @media only screen and (min-width: $break-tablet) and (max-width: $break-desktop - 1) { @content; }
+  }
+  @else if $media == l {
+    @media only screen and (min-width: $break-desktop) and (max-width: $break-HD - 1) { @content; }
+  }
+  @else if $media == xl {
+    @media only screen and (min-width: $break-HD) { @content; }
+  }
+}

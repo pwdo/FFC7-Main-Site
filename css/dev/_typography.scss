@@ -1,0 +1,93 @@
+/*
+ * Using vertical rhythm in type
+ *
+ * One important thing you have to remember is that
+ * Don’t ever use px for declaring font-size and line-height
+ *
+ * Since we’re using vertical rhythm to maintain the vertical flow of the site,
+ * the process of declaring line-height and font size will be a bit different.
+ *
+ * We always declare the determined line-height first.
+ * This way we can make sure that the texts are following the vertical rhythm.
+ * 
+ * e.g. 
+ *
+ * p {
+ *   line-height: 1rem;
+ * }
+ *
+ * Then we determine the font size with this one simple formula:
+ *
+ * font-size = line-height / ratio
+ * 
+ * Common ratio for titles is 1.2 and for body texts is 1.4
+ *
+ * So let’s say we’re setting the font size for the body text, 
+ * and the pre-determined line-height is 1rem, so:
+ *
+ * font-size = 1 / 1.4
+ * 
+ * Since we’re doing the math with sass, we need to give the result a rem unit, so:
+ *
+ * font-size = 1 / 1.4 * 1rem
+ *
+ * And hence:
+ *
+ * p {
+ *   line-height: 1rem;
+ *   font-size: 1 / 1.4 * 1rem;
+ * }
+ */
+
+// Titles
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+h1 {
+  line-height: 3rem;
+  font-size: 3 / 1.2 * 1rem;
+}
+
+h2 {
+  line-height: 2.5rem;
+  font-size: 2.5 / 1.2 * 1rem;
+}
+
+h3 {
+  line-height: 2rem;
+  font-size: 2 / 1.2 * 1rem;
+}
+
+h4 {
+  line-height: 2rem;
+  font-size: 2 / 1.4 * 1rem;
+}
+
+h5 {
+  line-height: 1.5rem;
+  font-size: 1.5 / 1.2 * 1rem;
+}
+
+h6 {
+  line-height: 1rem;
+  font-size: 1 / 1.2 * 1rem;
+}
+
+// Paragraph
+p {
+  line-height: 1rem;
+  font-size: 1 / 1.4 * 1rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
+}
+
+// Anchor
+a, a:link, a:visited, a:focus {
+  color: $black;
+}
+
+a:hover {
+  color: $accent;
+}

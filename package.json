@@ -1,0 +1,17 @@
+{
+  "name": "pwdo-basic-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic boilerplate for PWDO sites",
+  "author": "Aceler Chua",
+  "devDependencies": {
+    "autoprefixer": "^6.2.3",
+    "css-mqpacker": "^4.0.0",
+    "cssnano": "^3.4.0",
+    "grunt": "~1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-notify": "^0.4.1",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "*"
+  }
+}

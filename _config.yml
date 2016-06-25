@@ -1,0 +1,14 @@
+# Site settings
+title: Form Function & Class 7
+email: info@pwdo.org
+description: Evil design needs to be overthrown. Join the rebels to fight for a better designed world! Be with us at the 6th Form Function & Class web design conference this November 14.
+baseurl: ""
+url: "http://2015.formfunctionclass.com" # Online
+# url: "http://127.0.0.1:4000" # Local
+# url: "http://192.168.1.107:4000" # Local Test
+twitter_username: ffcph
+github_username:  pwdo
+exclude: ["node_modules", "bower_components", "Gruntfile.js", "package.json", "bower.json", "css/dev", "js/dev", "readme.md", "CNAME"]
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,32 @@
+/*
+ * How this works?
+ *
+ * We use the rem unit to maintain the vertical rhythm.
+ *
+ * At the Baseline setup below, we set the height of the vertical grid 
+ * by declaring the height as font-size.
+ * 
+ * Once we get the vertical grid right, we use the rem unit 
+ * to declare the height of any vertical properties like:
+ * height, margin-top, margin-bottom, padding-top, padding-bottom
+ *
+ * For example:
+ * If font-size at the baseline setup is 25px,
+ * .box {padding: 1rem 15px} will be equals to .box {padding: 25px 15px}
+ *
+ * It is best to keep the rem value in 0.5 increments,
+ * try to avoid values like 0.25rem or 0.75rem if possible.
+ *
+ */
+
+// Baseline setup
+html {
+  font-family: $body-text;
+  // Set the vertical grid height
+  font-size: 25px;
+  line-height: 1rem;
+
+  @include breakpoint(l) {
+    font-size: 22px;
+  }
+}
