@@ -1,8 +1,9 @@
 ---
 layout: greater
-main-color: blue
-border-color: red
-free-color:	yellow
+main-color: red
+border-color: yellow
+free-color:	white
+title: Home
 ---
 
 # Form Function & Class 7
@@ -15,8 +16,8 @@ You won't just get inspired, but all fired up to be better designers and make gr
 
 <!-- <figure>
 	<img src="assets/demo.jpg" alt="Demo">
-</figure> -->
+</figure>
 
 - abc
 - def
-- ghi
+- ghi -->

@@ -18,88 +18,90 @@
 }
 
 // Attributes name
-h1, h2, h3, h4, h5, h6, p, figure, ul, ol {
-  position: relative;
-  
-  &:before {
-    font-size: 1 / 1.6 * 1rem;
-    line-height: inherit;
-    position: absolute;
-    left: -45px;
-    width: 30px;
-    text-align: right;
-    font-family: $body-text;
-    font-weight: 400;
-    opacity: 0.65;
+.mainarea-contentsection {
+  > h1, > h2, > h3, > h4, > h5, > h6, > p {
+    position: relative;
+    
+    &:before {
+      font-size: 1 / 1.6 * 1rem;
+      line-height: inherit;
+      position: absolute;
+      left: -45px;
+      width: 30px;
+      text-align: right;
+      font-family: $body-text;
+      font-weight: 400;
+      opacity: 0.65;
 
-    @include breakpoint(pm) {
-      display: none;
+      @include breakpoint(pm) {
+        display: none;
+      }
     }
   }
-}
 
-figure, ul, ol {
-  position: relative;
-  
-  &:before {
-    font-size: 1 / 1.6 * 1rem;
-    line-height: 1rem;
-    position: absolute;
-    left: -45px;
-    width: 30px;
-    text-align: right;
-    font-family: $body-text;
-    font-weight: 400;
-    opacity: 0.65;
+  > figure, > ul, > ol {
+    position: relative;
+    
+    &:before {
+      font-size: 1 / 1.6 * 1rem;
+      line-height: 1rem;
+      position: absolute;
+      left: -45px;
+      width: 30px;
+      text-align: right;
+      font-family: $body-text;
+      font-weight: 400;
+      opacity: 0.65;
 
-    @include breakpoint(pm) {
-      display: none;
+      @include breakpoint(pm) {
+        display: none;
+      }
     }
   }
-}
 
-h1:before {
-  content: "H1";
-}
+  > h1:before {
+    content: "H1";
+  }
 
-h2:before {
-  content: "H2";
-}
+  > h2:before {
+    content: "H2";
+  }
 
-h3:before {
-  content: "H3";
-}
+  > h3:before {
+    content: "H3";
+  }
 
-h4:before {
-  content: "H4";
-}
+  > h4:before {
+    content: "H4";
+  }
 
-h5:before {
-  content: "H5";
-}
+  > h5:before {
+    content: "H5";
+  }
 
-h6:before {
-  content: "H6";
-}
+  > h6:before {
+    content: "H6";
+  }
 
-p:before {
-  content: "P";
-}
+  > p:before {
+    content: "P";
+  }
 
-p + p:before {
-  content: ""; 
-}
+  > p + p:before {
+    content: ""; 
+  }
 
-figure:before {
-  content: "IMG";
-}
+  > figure:before {
+    content: "IMG";
+  }
 
-ul:before {
-  content: "UL";
-}
+  > ul:before {
+    content: "UL";
+  }
 
-ol:before {
-  content: "OL";
+  > ol:before {
+    content: "OL";
+  }
 }
 
 // Main Styles
@@ -119,66 +121,217 @@ img {
 .mainarea {
   min-height: 100vh;
   position: relative;
+  overflow: hidden;
 }
 
 // Main Area
 .mainarea[data-main="black"] {
   background: $black; 
+
+  > .mainarea-logo .shapes {
+    fill: $black; 
+  }
+
+  + nav li > a {
+    color: $black;
+  }
 }
 
 .mainarea[data-main="white"] {
   background: $white; 
+
+  > .mainarea-logo .shapes {
+    fill: $white; 
+  }
+
+  + nav li > a {
+    color: $white;
+  }
 }
 
 .mainarea[data-main="yellow"] {
   background: $yellow; 
+
+  > .mainarea-logo .shapes {
+    fill: $yellow; 
+  }
+
+  + nav li > a {
+    color: $yellow;
+  }
 }
 
 .mainarea[data-main="blue"] {
   background: $blue; 
+
+  > .mainarea-logo .shapes {
+    fill: $blue; 
+  }
+
+  + nav li > a {
+    color: $blue;
+  }
 }
 
 .mainarea[data-main="red"] {
   background: $red; 
+
+  > .mainarea-logo .shapes {
+    fill: $red; 
+  }
+
+  + nav li > a {
+    color: $red;
+  }
 }
 
 // Border Area
 .mainarea[data-border="black"] {
+
+  > .mainarea-logo .shapes {
+    @include breakpoint(t) {
+      fill: $black;
+    }
+
+    @include breakpoint(lm) {
+      fill: $black; 
+    }
+
+    @include breakpoint(pm) {
+      fill: $black; 
+    }
+  }
   
   > .mainarea-background > .mainarea-background-svg > .border {
     fill: $black;
+  }
+
+  + nav li > a {
+    background: $black;
+
+    &:hover {
+      background: lighten($black, 18);
+    }
   }
  
 }
 
 .mainarea[data-border="white"] {
+
+  > .mainarea-logo .shapes {
+    @include breakpoint(t) {
+      fill: $white;
+    }
+
+    @include breakpoint(lm) {
+      fill: $white; 
+    }
+
+    @include breakpoint(pm) {
+      fill: $white; 
+    }
+  }
   
   > .mainarea-background > .mainarea-background-svg > .border {
     fill: $white;
+  }
+
+  + nav li > a {
+    background: $white;
+
+    &:hover {
+      background: lighten($white, 18);
+    }
   }
  
 }
 
 .mainarea[data-border="yellow"] {
+
+  > .mainarea-logo .shapes {
+    @include breakpoint(t) {
+      fill: $yellow;
+    }
+
+    @include breakpoint(lm) {
+      fill: $yellow; 
+    }
+
+    @include breakpoint(pm) {
+      fill: $yellow; 
+    }
+  }
   
   > .mainarea-background > .mainarea-background-svg > .border {
     fill: $yellow;
+  }
+
+  + nav li > a {
+    background: $yellow;
+
+    &:hover {
+      background: lighten($yellow, 18);
+    }
   }
  
 }
 
 .mainarea[data-border="blue"] {
+
+  > .mainarea-logo .shapes {
+    @include breakpoint(t) {
+      fill: $blue;
+    }
+
+    @include breakpoint(lm) {
+      fill: $blue; 
+    }
+
+    @include breakpoint(pm) {
+      fill: $blue; 
+    }
+  }
   
   > .mainarea-background > .mainarea-background-svg > .border {
     fill: $blue;
+  }
+
+  + nav li > a {
+    background: $blue;
+
+    &:hover {
+      background: lighten($blue, 18);
+    }
   }
  
 }
 
 .mainarea[data-border="red"] {
+
+  > .mainarea-logo .shapes {
+    @include breakpoint(t) {
+      fill: $red;
+    }
+
+    @include breakpoint(lm) {
+      fill: $red; 
+    }
+
+    @include breakpoint(pm) {
+      fill: $red; 
+    }
+  }
   
   > .mainarea-background > .mainarea-background-svg > .border {
     fill: $red;
+  }
+
+  + nav li > a {
+    background: $red;
+
+    &:hover {
+      background: lighten($red, 18);
+    }
   }
  
 }
@@ -193,6 +346,10 @@ img {
   > .mainarea-background > .mainarea-background-svg > .free {
     fill: $black;
   }
+
+  + nav {
+    color: $black;
+  }
  
 }
 
@@ -204,6 +361,10 @@ img {
 
   > .mainarea-background > .mainarea-background-svg > .free {
     fill: $white;
+  }
+
+  + nav {
+    color: $white;
   }
  
 }
@@ -217,6 +378,10 @@ img {
   > .mainarea-background > .mainarea-background-svg > .free {
     fill: $yellow;
   }
+
+  + nav {
+    color: $yellow;
+  }
  
 }
 
@@ -228,6 +393,10 @@ img {
 
   > .mainarea-background > .mainarea-background-svg > .free {
     fill: $blue;
+  }
+
+  + nav {
+    color: $blue;
   }
  
 }
@@ -241,7 +410,42 @@ img {
   > .mainarea-background > .mainarea-background-svg > .free {
     fill: $red;
   }
+
+  + nav {
+    color: $red;
+  }
  
+}
+
+.mainarea-logo > svg{
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  right: 60px;
+  bottom: 2.5rem;
+  z-index: 30;
+
+  @include breakpoint(t) {
+    position: fixed;
+    bottom: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+
+  @include breakpoint(lm) {
+    position: fixed;
+    bottom: 2rem;
+    width: 2rem;
+    height: 2rem;
+  }
+
+  @include breakpoint(pm) {
+    position: fixed;
+    bottom: 2rem;
+    width: 2rem;
+    height: 2rem;
+    right: 20px;
+  }
 }
 
 .mainarea-contentsection {
@@ -257,6 +461,14 @@ img {
     }
   }
 
+  @include breakpoint(t) {
+    padding: 2rem 37vw 55vw 60px;
+
+    .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
+      padding: 2rem 35vw 65vw 60px;      
+    }
+  }
+  
   @include breakpoint(lm) {
     padding: 2rem 60px 78vw;
   }
@@ -273,6 +485,15 @@ img {
   bottom: 0;
   left: 0;
   z-index: 10;
+
+  @include breakpoint(t) {
+    position: static;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+  }
 
   @include breakpoint(lm) {
     position: static;
@@ -299,6 +520,28 @@ img {
   top: 0;
   right: 0;
 
+  @include breakpoint(l) {
+    right: -100px;
+  }
+
+  @include breakpoint(t) {
+    height: 100vw;
+    transform: rotate(90deg);
+    transform-origin: bottom right;
+    top: auto;
+    right: 100vw;
+    bottom: -15vw;
+
+    .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
+      height: auto;
+      width: 62vw;
+      transform: rotate(0deg);
+      top: auto;
+      right: 0;
+      bottom: 0;
+    }
+  }
+
   @include breakpoint(lm) {
     height: 100vw;
     transform: rotate(90deg);
@@ -307,7 +550,7 @@ img {
     right: 100vw;
     bottom: 0;
 
-    .mainarea[data-theme="greater"] & {
+    .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
       height: auto;
       width: 62vw;
       transform: rotate(0deg);
@@ -325,7 +568,7 @@ img {
     right: 100vw;
     bottom: 0;
 
-    .mainarea[data-theme="greater"] & {
+    .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
       height: auto;
       width: 62vw;
       transform: rotate(0deg);
@@ -334,4 +577,74 @@ img {
       bottom: 0;
     }
   }
+}
+
+nav {
+  font-family: $title-text;
+  position: fixed;
+  bottom: 2.5rem;
+  left: 60px;
+  z-index: 40;
+    
+  &:before {
+    content: "NAV";
+    font-size: 1 / 1.6 * 1rem;
+    line-height: 1rem;
+    position: absolute;
+    left: -45px;
+    width: 30px;
+    text-align: right;
+    font-family: $body-text;
+    font-weight: 400;
+    opacity: 0.65;
+
+    @include breakpoint(t) {
+      display: none;
+    }
+
+    @include breakpoint(lm) {
+      display: none;
+    }
+
+    @include breakpoint(pm) {
+      display: none;
+    }
+  }
+
+  @include breakpoint(t) {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 6rem 2rem 60px;
+  }
+
+  @include breakpoint(lm) {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 6rem 2rem 60px;
+  }
+
+  @include breakpoint(pm) {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 4rem 2rem 20px;
+  }
+}
+
+nav > ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav > ul > li {
+  display: inline-block;
+}
+
+nav > ul > li > a {
+  display: block;
+  padding: 0.5rem 10px;
+  margin-right: 5px;
+  text-decoration: none;
 }

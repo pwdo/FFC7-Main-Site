@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="mainarea" data-theme="greater" data-main="{{ page.main-color }}" data-border="{{ page.border-color }}" data-free="{{ page.free-color }}">
+  <div class="mainarea-logo">
+  	{% include logo.html %}
+  </div>
   <section class="mainarea-contentsection">
     {{ content }}
   </section>
