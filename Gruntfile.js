@@ -88,7 +88,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-notify');
 
   grunt.registerTask('default', ['sass:build', 'postcss', 'uglify', 'notify:all']);
-  grunt.registerTask('watch', ['watch']);
+  grunt.registerTask('serve', ['watch']);
   grunt.registerTask('css', ['sass:build', 'postcss', 'notify:sass']);
   grunt.registerTask('js', ['uglify', 'notify:js']);
 

@@ -29,4 +29,8 @@ html {
   @include breakpoint(l) {
     font-size: 22px;
   }
+
+  @include breakpoint(pm) {
+    font-size: 20px;
+  }
 }

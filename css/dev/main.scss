@@ -17,4 +17,321 @@
   }
 }
 
+// Attributes name
+h1, h2, h3, h4, h5, h6, p, figure, ul, ol {
+  position: relative;
+  
+  &:before {
+    font-size: 1 / 1.6 * 1rem;
+    line-height: inherit;
+    position: absolute;
+    left: -45px;
+    width: 30px;
+    text-align: right;
+    font-family: $body-text;
+    font-weight: 400;
+    opacity: 0.65;
+
+    @include breakpoint(pm) {
+      display: none;
+    }
+  }
+}
+
+figure, ul, ol {
+  position: relative;
+  
+  &:before {
+    font-size: 1 / 1.6 * 1rem;
+    line-height: 1rem;
+    position: absolute;
+    left: -45px;
+    width: 30px;
+    text-align: right;
+    font-family: $body-text;
+    font-weight: 400;
+    opacity: 0.65;
+
+    @include breakpoint(pm) {
+      display: none;
+    }
+  }
+}
+
+h1:before {
+  content: "H1";
+}
+
+h2:before {
+  content: "H2";
+}
+
+h3:before {
+  content: "H3";
+}
+
+h4:before {
+  content: "H4";
+}
+
+h5:before {
+  content: "H5";
+}
+
+h6:before {
+  content: "H6";
+}
+
+p:before {
+  content: "P";
+}
+
+p + p:before {
+  content: ""; 
+}
+
+figure:before {
+  content: "IMG";
+}
+
+ul:before {
+  content: "UL";
+}
+
+ol:before {
+  content: "OL";
+}
+
 // Main Styles
+
+body {
+  color: $black;
+  font-family: $body-text;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+.mainarea {
+  min-height: 100vh;
+  position: relative;
+}
+
+// Main Area
+.mainarea[data-main="black"] {
+  background: $black; 
+}
+
+.mainarea[data-main="white"] {
+  background: $white; 
+}
+
+.mainarea[data-main="yellow"] {
+  background: $yellow; 
+}
+
+.mainarea[data-main="blue"] {
+  background: $blue; 
+}
+
+.mainarea[data-main="red"] {
+  background: $red; 
+}
+
+// Border Area
+.mainarea[data-border="black"] {
+  
+  > .mainarea-background > .mainarea-background-svg > .border {
+    fill: $black;
+  }
+ 
+}
+
+.mainarea[data-border="white"] {
+  
+  > .mainarea-background > .mainarea-background-svg > .border {
+    fill: $white;
+  }
+ 
+}
+
+.mainarea[data-border="yellow"] {
+  
+  > .mainarea-background > .mainarea-background-svg > .border {
+    fill: $yellow;
+  }
+ 
+}
+
+.mainarea[data-border="blue"] {
+  
+  > .mainarea-background > .mainarea-background-svg > .border {
+    fill: $blue;
+  }
+ 
+}
+
+.mainarea[data-border="red"] {
+  
+  > .mainarea-background > .mainarea-background-svg > .border {
+    fill: $red;
+  }
+ 
+}
+
+// Free Area
+.mainarea[data-free="black"] {
+  
+  > .mainarea-contentsection {
+    color: $black;
+  }
+
+  > .mainarea-background > .mainarea-background-svg > .free {
+    fill: $black;
+  }
+ 
+}
+
+.mainarea[data-free="white"] {
+  
+  > .mainarea-contentsection {
+    color: $white;
+  }
+
+  > .mainarea-background > .mainarea-background-svg > .free {
+    fill: $white;
+  }
+ 
+}
+
+.mainarea[data-free="yellow"] {
+  
+  > .mainarea-contentsection {
+    color: $yellow;
+  }
+
+  > .mainarea-background > .mainarea-background-svg > .free {
+    fill: $yellow;
+  }
+ 
+}
+
+.mainarea[data-free="blue"] {
+  
+  > .mainarea-contentsection {
+    color: $blue;
+  }
+
+  > .mainarea-background > .mainarea-background-svg > .free {
+    fill: $blue;
+  }
+ 
+}
+
+.mainarea[data-free="red"] {
+  
+  > .mainarea-contentsection {
+    color: $red;
+  }
+
+  > .mainarea-background > .mainarea-background-svg > .free {
+    fill: $red;
+  }
+ 
+}
+
+.mainarea-contentsection {
+  padding: 3rem 37vw 5rem 60px;
+  position: relative;
+  z-index: 20;
+
+  > figure > img {
+    border: 1rem solid;
+
+    @include breakpoint(pm) {
+      border: 0.5rem solid;      
+    }
+  }
+
+  @include breakpoint(lm) {
+    padding: 2rem 60px 78vw;
+  }
+
+  @include breakpoint(pm) {
+    padding: 1.5rem 20px 78vw;
+  }
+}
+
+.mainarea-background {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+
+  @include breakpoint(lm) {
+    position: static;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+  }
+
+  @include breakpoint(pm) {
+    position: static;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    width: 100%;
+  }
+}
+
+.mainarea-background-svg {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  @include breakpoint(lm) {
+    height: 100vw;
+    transform: rotate(90deg);
+    transform-origin: bottom right;
+    top: auto;
+    right: 100vw;
+    bottom: 0;
+
+    .mainarea[data-theme="greater"] & {
+      height: auto;
+      width: 62vw;
+      transform: rotate(0deg);
+      top: auto;
+      right: 0;
+      bottom: 0;
+    }
+  }
+
+  @include breakpoint(pm) {
+    height: 100vw;
+    transform: rotate(90deg);
+    transform-origin: bottom right;
+    top: auto;
+    right: 100vw;
+    bottom: 0;
+
+    .mainarea[data-theme="greater"] & {
+      height: auto;
+      width: 62vw;
+      transform: rotate(0deg);
+      top: auto;
+      right: 0;
+      bottom: 0;
+    }
+  }
+}

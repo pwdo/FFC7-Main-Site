@@ -39,10 +39,36 @@
  * }
  */
 
+ @font-face {
+  font-family: 'Inovato';
+  src: url('../font/Inovato-Regular.eot');
+  src: url('../font/Inovato-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../font/Inovato-Regular.woff2') format('woff2'),
+       url('../font/Inovato-Regular.woff') format('woff'),
+       url('../font/Inovato-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inovato';
+  src: url('../font/Inovato-Bold.eot');
+  src: url('../font/Inovato-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../font/Inovato-Bold.woff2') format('woff2'),
+       url('../font/Inovato-Bold.woff') format('woff'),
+       url('../font/Inovato-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
 // Titles
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 0.5rem;
-  font-weight: 700;
+  font-family: $title-text;
+  margin-bottom: 1rem;
+  font-weight: 800;
+  text-rendering: optimizeLegibility; 
+  font-feature-settings: "kern";
+  -webkit-font-smoothing: antialiased;
 }
 
 h1 {
@@ -81,6 +107,25 @@ p {
   font-size: 1 / 1.4 * 1rem;
   font-weight: 400;
   margin-bottom: 0.5rem;
+  text-rendering: optimizeLegibility; 
+  font-feature-settings: "kern";
+
+  + *:not(p) {
+    margin-top: 1rem;
+  }
+}
+
+// Lists
+ul, ol {
+  margin-bottom: 1rem;
+  padding-left: 22px;
+  list-style: square;
+
+  li {
+    line-height: 1rem;
+    font-size: 1 / 1.4 * 1rem;
+    font-weight: 400;
+  }
 }
 
 // Anchor
@@ -88,6 +133,6 @@ a, a:link, a:visited, a:focus {
   color: $black;
 }
 
-a:hover {
-  color: $accent;
-}
+// a:hover {
+//   color: $accent;
+// }
