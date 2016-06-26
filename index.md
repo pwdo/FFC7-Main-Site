@@ -4,6 +4,7 @@ main-color: red
 border-color: yellow
 free-color:	white
 title: Home
+weight: 1
 ---
 
 # Form Function & Class 7

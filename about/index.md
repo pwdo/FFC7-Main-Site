@@ -4,6 +4,7 @@ main-color: blue
 border-color: yellow
 free-color:	white
 title: About
+weight: 2
 ---
 
 # About Form Function & Class
