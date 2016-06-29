@@ -7,17 +7,20 @@
 
     {{ content }}
 
-    <nav>
+    <nav id="nav">
       <ul>
         {% assign pages = site.pages | sort:"weight" %}
         {% for page in pages %}
         {% if page.title %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% if page.title != "Convince Your Boss" %}<li><a href="{{ page.url }}">{{ page.title-link }}</a></li>{% endif %}
         {% endif %}
         {% endfor %}
+        <li><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
       </ul>
     </nav>
 
   </body>
+
+  <script type="text/javascript" src="/js/main.min.js"></script>
 
 </html>

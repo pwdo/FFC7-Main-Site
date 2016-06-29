@@ -1,24 +1,17 @@
 ---
-layout: greater
+layout: curly
 main-color: red
 border-color: yellow
 free-color:	white
 title: Home
+title-link: home { }
 weight: 1
 ---
 
-# Form Function & Class 7
+# Form Function &&nbsp;Class&nbsp;7 <br> October 22, 2016 <br> Hive Hotel QC
 
-Good design is more valuable than ever. Without it, bad design takes over, causing our users to suffer. 
+Learn from the brightest minds in design & front-end at the \<form\> function() & .class conference, a not-for-profit event brought to you by the volunteers of the <a href="http://pwdo.org">Philippine Web Designers Organization</a>. 
 
-This November 14th, we’re flying in the sharpest minds in design & development, armed with strategies to eliminate faulty interfaces, substandard code, and poor experiences. 
+FFC topics include HTML, CSS, JS, Design, UX, Mobile, Business, and more—you'll take home the latest ideas, tools, techniques, processes, and workflows to better your craft and advance your career. Plus, you get to mingle with fellow devs & designers, pick the brains of our speakers, and be in an environment that's ripe for exploring new collaborations & opportunities! Need to convince your boss? <a href="/convince/">We got that covered</a>.
 
-You won't just get inspired, but all fired up to be better designers and make great things. Register for Form Function & Class 6 now!
-
-<!-- <figure>
-	<img src="assets/demo.jpg" alt="Demo">
-</figure>
-
-- abc
-- def
-- ghi -->
+Early Bird registration is available this July only, so <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">get your tickets now</a>!

@@ -2,10 +2,11 @@
 title: Form Function & Class 7
 email: info@pwdo.org
 date: October 22, 2016
-description: Evil design needs to be overthrown. Join the rebels to fight for a better designed world! Be with us at the 6th Form Function & Class web design conference this November 14.
+description: Learn from the brightest minds in design and front-end at Form Function & Class, the pioneering web design conference in Asia.
 baseurl: ""
-# url: "http://2015.formfunctionclass.com" # Online
-url: "http://127.0.0.1:4000" # Local
+# url: "http://2016.formfunctionclass.com" # Online
+url: "http://ss.formfunctionclass.com" # Online
+# url: "http://127.0.0.1:4000" # Local
 # url: "http://192.168.1.107:4000" # Local Test
 twitter_username: ffcph
 github_username:  pwdo

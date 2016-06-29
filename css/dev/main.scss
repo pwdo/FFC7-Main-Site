@@ -213,6 +213,14 @@ img {
       background: lighten($black, 18);
     }
   }
+
+  a {
+    color: $black;
+  }
+
+  .menu-label {
+    color: $black;
+  }
  
 }
 
@@ -242,6 +250,14 @@ img {
     &:hover {
       background: lighten($white, 18);
     }
+  }
+
+  a {
+    color: $white;
+  }
+
+  .menu-label {
+    color: $white;
   }
  
 }
@@ -273,6 +289,14 @@ img {
       background: lighten($yellow, 18);
     }
   }
+
+  a {
+    color: $yellow;
+  }
+
+  .menu-label {
+    color: $yellow;
+  }
  
 }
 
@@ -302,6 +326,14 @@ img {
     &:hover {
       background: lighten($blue, 18);
     }
+  }
+
+  a {
+    color: $blue;
+  }
+
+  .menu-label {
+    color: $blue;
   }
  
 }
@@ -333,6 +365,14 @@ img {
       background: lighten($red, 18);
     }
   }
+
+  a {
+    color: $red;
+  }
+
+  .menu-label {
+    color: $red;
+  }
  
 }
 
@@ -349,6 +389,9 @@ img {
 
   + nav {
     color: $black;
+    @include breakpoint(m) {
+      background: $black;  
+    }
   }
  
 }
@@ -365,6 +408,9 @@ img {
 
   + nav {
     color: $white;
+    @include breakpoint(m) {
+      background: $white;  
+    }
   }
  
 }
@@ -381,6 +427,9 @@ img {
 
   + nav {
     color: $yellow;
+    @include breakpoint(m) {
+      background: $yellow;  
+    }
   }
  
 }
@@ -397,6 +446,9 @@ img {
 
   + nav {
     color: $blue;
+    @include breakpoint(m) {
+      background: $blue;  
+    }
   }
  
 }
@@ -413,6 +465,9 @@ img {
 
   + nav {
     color: $red;
+    @include breakpoint(m) {
+      background: $red;  
+    }
   }
  
 }
@@ -449,7 +504,8 @@ img {
 }
 
 .mainarea-contentsection {
-  padding: 3rem 37vw 5rem 60px;
+  // padding: 3rem 37vw 7rem 60px;
+  padding: 3rem 35vw 7rem 60px;
   position: relative;
   z-index: 20;
 
@@ -462,10 +518,12 @@ img {
   }
 
   @include breakpoint(t) {
-    padding: 2rem 37vw 55vw 60px;
+    // padding: 2rem 37vw 55vw 60px;
+    padding: 2rem 27vw 55vw 60px;
 
     .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
-      padding: 2rem 35vw 65vw 60px;      
+      // padding: 2rem 35vw 65vw 60px;      
+      padding: 2rem 20vw 65vw 60px;      
     }
   }
   
@@ -631,6 +689,7 @@ nav {
     width: 100%;
     padding: 1rem 4rem 2rem 20px;
   }
+
 }
 
 nav > ul {
@@ -646,5 +705,67 @@ nav > ul > li > a {
   display: block;
   padding: 0.5rem 10px;
   margin-right: 5px;
+  margin-bottom: 10px;
   text-decoration: none;
+}
+
+/* mobile menu patch */
+.menu-label {
+  font-size: 11px;
+  line-height: 2rem;
+  color: $black;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: fixed;
+  z-index: 35;
+  right:  10px;
+  bottom: 2rem;
+  width:  2rem;
+  height: 2rem;
+  background: none;
+  border: none;
+  display: none;
+}
+@include breakpoint(m) {
+  .menu-label {
+    display: block;
+  }
+  #logo {
+    bottom: 10px;
+  }
+  .mainarea-logo > svg {
+    cursor: pointer;
+    z-index: 50;
+    right: 10px;
+    border: 5px solid transparent;
+    -webkit-transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
+       -moz-transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
+            transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
+    &.is-active {
+      background: $white;
+      border-color: $white;
+    }
+  }
+  #nav {
+    bottom: -100%;
+    padding: 5px;
+    -webkit-transition: 0.3s ease-in-out bottom;
+       -moz-transition: 0.3s ease-in-out bottom;
+            transition: 0.3s ease-in-out bottom;
+    &.is-active {
+      bottom: 0;
+    }
+  }
+  nav > ul > li {
+    float: left;
+    width: 50%;
+    display: block;
+    &:nth-of-type(5) {
+      width: 84%;
+    }
+    > a {
+      margin: 5px;
+    }
+  }
 }
