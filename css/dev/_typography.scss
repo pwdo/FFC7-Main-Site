@@ -149,6 +149,6 @@ ul, ol {
 //   color: $black;
 // }
 
-// a:hover {
-//   color: $accent;
-// }
+a:focus, a:hover, a:active {
+  text-decoration: none;
+}

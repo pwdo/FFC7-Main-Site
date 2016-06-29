@@ -8,7 +8,9 @@ title-link: home { }
 weight: 1
 ---
 
-# Form Function &&nbsp;Class&nbsp;7 <br> October 22, 2016 <br> Hive Hotel QC
+# Form Function & Class conference
+
+## October 22, 2016 <br> Hive Hotel QC
 
 Learn from the brightest minds in design & front-end at the \<form\> function() & .class conference, a not-for-profit event brought to you by the volunteers of the <a href="http://pwdo.org">Philippine Web Designers Organization</a>. 
 

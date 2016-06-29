@@ -8,7 +8,7 @@ title-link: masterclass ( )
 weight: 3
 ---
 
-# Masterclass with Holger&nbsp;Bartel: <br> 
+# Masterclass with Holger&nbsp;Bartel: 
 
 ## Front-End Performance &&nbsp;Optimization
 
@@ -20,7 +20,7 @@ This year, Holger Bartel will go into the technical details of front-end perform
 
 ### The Speaker
 
-No stranger to the Form Function & Class conference, Holger Bartel is a web design consultant and frontend developer based in Hong Kong. He founded the design studio uforepublic and consults on strategy and designs & develops responsive and mobile websites with a focus on performance and high standards. He's also a part-time lecturer Hong Kong Polytechnic University School of Design and organizes Harbour front Hong Kong.
+No stranger to the Form Function & Class conference, <a href="http://foobartel.com">Holger Bartel</a> is a web design consultant and frontend developer based in Hong Kong. He founded the design studio uforepublic and consults on strategy and designs & develops responsive and mobile websites with a focus on performance and high standards. He's also a part-time lecturer Hong Kong Polytechnic University School of Design and organizes Harbour front Hong Kong.
 
 ### Programme
 

@@ -389,7 +389,7 @@ img {
 
   + nav {
     color: $black;
-    @include breakpoint(m) {
+    @include breakpoint(h) {
       background: $black;  
     }
   }
@@ -408,7 +408,7 @@ img {
 
   + nav {
     color: $white;
-    @include breakpoint(m) {
+    @include breakpoint(h) {
       background: $white;  
     }
   }
@@ -427,7 +427,7 @@ img {
 
   + nav {
     color: $yellow;
-    @include breakpoint(m) {
+    @include breakpoint(h) {
       background: $yellow;  
     }
   }
@@ -446,7 +446,7 @@ img {
 
   + nav {
     color: $blue;
-    @include breakpoint(m) {
+    @include breakpoint(h) {
       background: $blue;  
     }
   }
@@ -465,7 +465,7 @@ img {
 
   + nav {
     color: $red;
-    @include breakpoint(m) {
+    @include breakpoint(h) {
       background: $red;  
     }
   }
@@ -475,7 +475,8 @@ img {
 .mainarea-logo > svg{
   width: 3rem;
   height: 3rem;
-  position: absolute;
+  // position: absolute;
+    position: fixed;
   right: 60px;
   bottom: 2.5rem;
   z-index: 30;
@@ -505,7 +506,7 @@ img {
 
 .mainarea-contentsection {
   // padding: 3rem 37vw 7rem 60px;
-  padding: 3rem 35vw 7rem 60px;
+    padding: 3rem 40vw 7rem 60px;
   position: relative;
   z-index: 20;
 
@@ -517,13 +518,17 @@ img {
     }
   }
 
+  @media only screen and (max-width: 939px) and (min-width: 768px) {
+    padding-right: 20vw;
+  }
+
   @include breakpoint(t) {
     // padding: 2rem 37vw 55vw 60px;
-    padding: 2rem 27vw 55vw 60px;
+      padding: 2rem 30vw 55vw 60px;
 
     .mainarea[data-theme="greater"] &, .mainarea[data-theme="parenthesis"] & {
       // padding: 2rem 35vw 65vw 60px;      
-      padding: 2rem 20vw 65vw 60px;      
+        padding: 2rem 20vw 65vw 60px;      
     }
   }
   
@@ -705,12 +710,13 @@ nav > ul > li > a {
   display: block;
   padding: 0.5rem 10px;
   margin-right: 5px;
-  margin-bottom: 10px;
+  // margin-top: 10px;
   text-decoration: none;
 }
 
 /* mobile menu patch */
 .menu-label {
+  font-family: $body-text;
   font-size: 11px;
   line-height: 2rem;
   color: $black;
@@ -725,9 +731,32 @@ nav > ul > li > a {
   height: 2rem;
   background: none;
   border: none;
+  outline: none;
   display: none;
 }
-@include breakpoint(m) {
+@media only screen and (max-width: 767px) {
+  #logo:is-active {
+    background: $white;
+    border-color: $white;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  #logo {
+    bottom: auto;
+    top:   2rem;
+    right: 2rem;
+  }
+  .menu-label {
+    bottom: auto;
+    top: 3.5rem;
+    right: 2rem;
+  }
+  nav > ul > li:nth-of-type(5) {
+    text-align: center;
+    width: 100%;
+  }
+}
+@include breakpoint(h) {
   .menu-label {
     display: block;
   }
@@ -742,10 +771,6 @@ nav > ul > li > a {
     -webkit-transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
        -moz-transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
             transition: 0.3s ease-in-out background, 0.3s ease-in-out border;
-    &.is-active {
-      background: $white;
-      border-color: $white;
-    }
   }
   #nav {
     bottom: -100%;
@@ -768,4 +793,44 @@ nav > ul > li > a {
       margin: 5px;
     }
   }
+}
+
+/* animate page elements */
+@-webkit-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+   @-moz-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+     @-o-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+
+#logo, .mainarea-contentsection, nav {
+  opacity: 0;
+  -webkit-animation: fade-in ease-in 1 0.3s;
+     -moz-animation: fade-in ease-in 1 0.3s;
+       -o-animation: fade-in ease-in 1 0.3s;
+          animation: fade-in ease-in 1 0.3s;
+  -webkit-animation-fill-mode: forwards;
+     -moz-animation-fill-mode: forwards;
+       -o-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation-transition: 0.3s ease-in-out opacity;
+     -moz-animation-transition: 0.3s ease-in-out opacity;
+       -o-animation-transition: 0.3s ease-in-out opacity;
+          animation-transition: 0.3s ease-in-out opacity;
+}
+#logo {
+  -webkit-animation-delay: 0.2s;
+     -moz-animation-delay: 0.2s;
+       -o-animation-delay: 0.2s;
+          animation-delay: 0.2s;  
+}
+.mainarea-contentsection {
+  -webkit-animation-delay: 0.4s;
+     -moz-animation-delay: 0.4s;
+       -o-animation-delay: 0.4s;
+          animation-delay: 0.4s; 
+}
+nav {
+  -webkit-animation-delay: 0.8s;
+     -moz-animation-delay: 0.8s;
+       -o-animation-delay: 0.8s;
+          animation-delay: 0.8s;  
 }

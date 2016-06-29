@@ -8,7 +8,7 @@ title-link: // about
 weight: 4
 ---
 
-# The Conference
+# About the Conference
 
 \<form\> function() & .class is a web design conference created by volunteers and dedicated to the local community in Asia, held in the sunny/rainy shores of the Philippines.
 
@@ -32,19 +32,19 @@ FFC is brought to you by the PWDO core team: Sophia Lucero, Kit Valmadrid, Mae P
 
 Would you like to support FFC7? Check out our <a target="_blank" href="http://formfunctionclass.com/sponsor.pdf">partnership packet</a> or <a href="mailto:partners@pwdo.org">get in touch with us</a>!
 
-# FAQ
+## FAQ
 
-## For whom is this conference?
+### For whom is this conference?
 Web designers, front-end designers & developers, user interface designers, interaction designers, mobile designers, user experience designers, graphic designers, web developers, webmasters, bloggers, marketers, social media managers who do web design, media practitioners, students in IT or visual communication, and other related professions. If you work on web and mobile interfaces, FFC is for you.
 
-## Why should I attend FFC?
+### Why should I attend FFC?
 You’ll hear from amazing speakers who are the best in the business. Not only are they updated with what’s new in the industry, they’re the trailblazers and innovators themselves–and they’re sharing their wealth of knowledge with you! Every year, we get attendees coming up to us & telling us that they’re on information overload and that they wouldn’t have known of the new technologies available to them if they hadn’t attended the FFC conference. That’s what we want, to nudge our attendees in the right direction so they remain globally competitive in an industry that’s incredibly fast paced.
 
-## How can I convince my boss to get me to FFC?
+### How can I convince my boss to get me to FFC?
 
 <a href="/convince/">We can help with that</a>!
 
-## Can I pay offline? 
+### Can I pay offline? 
 Yes, you can make a deposit to the following Banco de Oro account: 
 
 Philippine Web Designers Organization, Inc. - 0280892586
@@ -61,7 +61,7 @@ Once deposited, please send an email with proof of payment to payment@pwdo.org w
 
 Please allow for at least 24 hours processing time.
 
-## Can I get a student discount?
+### Can I get a student discount?
 Student tickets are available at the following discounted rates from July to August through offline payment & our student partners:
 
 - FFC: 2000
@@ -70,28 +70,28 @@ Student tickets are available at the following discounted rates from July to Aug
 
 Please follow the offline payment instructions [above](#can-i-pay-offline), and include a copy of your valid student ID (enrolled in the current academic year) in your details.
 
-## Can I get a group discount?
+### Can I get a group discount?
 Group discounts are available to all professionals (not students) at a special 3+1 rate: purchase 3 tickets of the same type and you get 1 ticket free. Send an email to payment@pwdo.org with the subject “FFC 2016 Group Discount” indicating the number and type of tickets you wish to purchase, and we will get back to you.
 
-## Is my ticket transferrable?
+### Is my ticket transferrable?
 Sorry, tickets are not transferrable.
 
-## Is my ticket refundable?
+### Is my ticket refundable?
 We will accept refunds until one month before the event only (September 22, 2016)
 
-## Can I get a certificate of participation?
+### Can I get a certificate of participation?
 Yes! Digital certificates will be emailed after the event.
 
-## Can I get an official receipt?
+### Can I get an official receipt?
 Sure! Please sign up to request the O.R. after you check in to the event. Please make sure you have the following information ready: Name or payee or Company Name registered at the BIR, and corresponding Tax Identification Number (TIN).
 
-## Do I need to bring my laptop?
+### Do I need to bring my laptop?
 The FFC talks do not require participants to design or code on their laptops, but that is up to you.
 
-## Is there a dress code for FFC?
+### Is there a dress code for FFC?
 No dress code, but smart casual is recommended.
 
-## How can I promote FFC?
+### How can I promote FFC?
 You're awesome! You can follow us on 
 <a target="_blank" href="https://www.facebook.com/formfunctionclass">Facebook</a>, 
 <a target="_blank" href="https://twitter.com/ffcph">Twitter</a>, 
@@ -99,8 +99,8 @@ You're awesome! You can follow us on
 <a target="_blank" href="https://instagram.com/pwdo">Instagram</a>, 
 <a target="_blank" href="http://blog.pwdo.org">Tumblr</a> and share our posts there :) 
 
-## Are you a legitimate organization?
+### Are you a legitimate organization?
 Yes, the Philippine Web Designers Organization, Inc. has been registered with the SEC as a non-profit organization since 2009, with BIR TIN 007-274-276.
 
-## I have more questions!
+### I have more questions!
 Please send us an email at <a href="mailto:info@pwdo.org">info@pwdo.org</a>
