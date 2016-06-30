@@ -45,28 +45,35 @@ You’ll hear from amazing speakers who are the best in the business. Not only a
 <a href="/convince/">We can help with that</a>!
 
 ### Can I pay offline? 
-Yes, you can make a deposit to the following Banco de Oro account: 
+
+The following ticket rates are available this July: 
+
+- FFC Early Bird (Oct 22) - 3,250 
+- Masterclass (Oct 23) - 2,500 
+
+We accept payments via the following Banco De Oro account: 
 
 Philippine Web Designers Organization, Inc. - 0280892586
 
-Once deposited, please send an email with proof of payment to payment@pwdo.org with the subject “FFC 2016 Offline Payment” and indicate the number of tickets you want to purchase together with the following details for EACH PARTICIPANT:
+Once deposited, please send an email with proof of payment to payment@pwdo.org with the subject “FFC 2016 Offline Payment” and indicate the following details for EACH PARTICIPANT:
 
-- Name  
-- Gender  
-- Email 
-- Mobile Number
-- Occupation  
-- Organization  
-- Question/s for the speakers
+- Ticket Type: 
+- Name:  
+- Gender:  
+- Email: 
+- Mobile Number:
+- Occupation:  
+- Organization:  
+- Question/s for the speakers:
 
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
 Student tickets are available at the following discounted rates from July to August through offline payment & our student partners:
 
-- FFC: 2000
-- Masterclass: 3000
-- FFC+Masterclass: 4000 
+- FFC (Oct 22) - 2,000
+- Masterclass (Oct 23) - 3,000
+- FFC + Masterclass - 4,000 
 
 Please follow the offline payment instructions [above](#can-i-pay-offline), and include a copy of your valid student ID (enrolled in the current academic year) in your details.
 
