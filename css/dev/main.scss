@@ -857,41 +857,43 @@ nav > ul > li > a {
 }
 
 /* animate page elements */
-@-webkit-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
-   @-moz-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
-     @-o-keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
-        @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+
+// Mobile nav bounce
+@keyframes bounce { from { transform: translateX(0); } to { transform: translateX(-18px); } }
 
 #logo, .mainarea-contentsection, nav {
   opacity: 0;
-  -webkit-animation: fade-in ease-in 1 0.3s;
-     -moz-animation: fade-in ease-in 1 0.3s;
-       -o-animation: fade-in ease-in 1 0.3s;
-          animation: fade-in ease-in 1 0.3s;
-  -webkit-animation-fill-mode: forwards;
-     -moz-animation-fill-mode: forwards;
-       -o-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
-  -webkit-animation-transition: 0.3s ease-in-out opacity;
-     -moz-animation-transition: 0.3s ease-in-out opacity;
-       -o-animation-transition: 0.3s ease-in-out opacity;
-          animation-transition: 0.3s ease-in-out opacity;
+  animation: fade-in ease-in 1 0.3s;
+  animation-fill-mode: forwards;
+  animation-transition: 0.3s ease-in-out opacity;
 }
 #logo {
-  -webkit-animation-delay: 0.2s;
-     -moz-animation-delay: 0.2s;
-       -o-animation-delay: 0.2s;
-          animation-delay: 0.2s;  
+  animation-delay: 0.2s;  
 }
 .mainarea-contentsection {
-  -webkit-animation-delay: 0.4s;
-     -moz-animation-delay: 0.4s;
-       -o-animation-delay: 0.4s;
-          animation-delay: 0.4s; 
+  animation-delay: 0.4s; 
 }
 nav {
-  -webkit-animation-delay: 0.8s;
-     -moz-animation-delay: 0.8s;
-       -o-animation-delay: 0.8s;
-          animation-delay: 0.8s;  
+  animation-delay: 0.8s;  
+}
+nav > * {
+  @include breakpoint(t) {
+    animation: bounce ease-in-out 2 alternate 0.15s;
+    animation-fill-mode: forwards;
+    animation-transition: 0.3s ease-in-out opacity;
+    animation-delay: 1.5s;  
+  }
+  @include breakpoint(lm) {
+    animation: bounce ease-in-out 2 alternate 0.15s;
+    animation-fill-mode: forwards;
+    animation-transition: 0.3s ease-in-out opacity;
+    animation-delay: 1.5s;  
+  }
+  @include breakpoint(pm) {
+    animation: bounce ease-in-out 2 alternate 0.15s;
+    animation-fill-mode: forwards;
+    animation-transition: 0.3s ease-in-out opacity;
+    animation-delay: 1.5s;  
+  }
 }
