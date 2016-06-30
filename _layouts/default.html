@@ -13,17 +13,37 @@
       </div>
       <ul>
         <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
+
         {% assign pages = site.pages | sort:"weight" %}
-        {% for page in pages %}
-        {% if page.title %}
-        {% if page.title != "Convince Your Boss" %}<li><a href="{{ page.url }}">{{ page.title-link }}</a></li>{% endif %}
-        {% endif %}
+        {% for thispage in pages %}
+          {% if thispage.title %}
+            {% comment %}/// hide Convince Your Boss page ///{% endcomment %}
+            {% if thispage.title != "Convince Your Boss" %}
+            
+              {% comment %}/// if current page is Home, don't display link to Home ///{% endcomment %}
+              {% if page.title == "Home" and thispage.title != "Home" %}
+                <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
+              {% comment %}/// otherwise, display everything ///{% endcomment %}
+              {% elsif page.title != "Home" %}
+                <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
+              {% endif %}
+            
+            {% endif %}
+          {% endif %}
         {% endfor %}
       </ul>
     </nav>
 
   </body>
 
-  <script type="text/javascript" src="/js/main.min.js"></script>
+<script>
+  // GA: FFC7
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-22768469-2', 'auto');
+  ga('send', 'pageview');
+</script>
 </html>
