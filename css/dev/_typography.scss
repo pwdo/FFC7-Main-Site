@@ -134,14 +134,36 @@ p {
 // Lists
 ul, ol {
   margin-bottom: 1rem;
-  padding-left: 22px;
-  list-style: square;
+  padding-left: 25px;
 
   li {
     line-height: 1rem;
     font-size: 1 / 1.4 * 1rem;
     font-weight: 400;
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
+    position: relative;
   }
+}
+
+ul {
+  list-style: none;
+
+  *:not(nav) > & > li:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 10px;
+    height: 100%;
+    // border: 5px solid $white;
+    // border-radius: 50%;
+    left: -25px;
+    top: 0;
+  }
+}
+
+ol {
+  list-style: decimal;
 }
 
 // Anchor

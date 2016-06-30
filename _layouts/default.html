@@ -7,15 +7,18 @@
 
     {{ content }}
 
-    <nav id="nav">
+    <nav>
+      <div class="nav-logo">
+        {% include logo.html %}
+      </div>
       <ul>
+        <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
         {% assign pages = site.pages | sort:"weight" %}
         {% for page in pages %}
         {% if page.title %}
         {% if page.title != "Convince Your Boss" %}<li><a href="{{ page.url }}">{{ page.title-link }}</a></li>{% endif %}
         {% endif %}
         {% endfor %}
-        <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
       </ul>
     </nav>
 

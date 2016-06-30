@@ -47,9 +47,6 @@ $break-HD: 1600px;
   @else if $media == m {
     @media only screen and (max-width: $break-tablet - 1) { @content; }
   }
-  @else if $media == h {
-    @media only screen and (max-width: 1024px) { @content; }
-  }
   @else if $media == t {
     @media only screen and (min-width: $break-tablet) and (max-width: $break-desktop - 1) { @content; }
   }
