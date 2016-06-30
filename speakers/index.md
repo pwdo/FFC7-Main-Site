@@ -12,27 +12,27 @@ weight: 2
 
 More speakers will be announced soon. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Register for FFC7 now</a>!
 
-## <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
+- ## <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
 
-Data Designer at Thinking Machines 
+  Data Designer at Thinking Machines 
 
-## <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
+- ## <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
 
-Lecturer at Ateneo and User Experience Designer at Joomajam
+  Lecturer at Ateneo and User Experience Designer at Joomajam
 
-## <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
+- ## <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
 
-Chinese user interface consultant & designer
+  Chinese user interface consultant & designer
 
-## <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
+- ## <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
 
-Designer, coder, and entrepreneur behind Discover Meteor, Telescope, and Sidebar.io
+  Designer, coder, and entrepreneur behind Discover Meteor, Telescope, and Sidebar.io
 
-## <a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a> 
+- ## <a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a> 
 
-Rubyist and Co-Founder/CTO at Ticketbase, MashupGarage, and Proudcloud
+  Rubyist and Co-Founder/CTO at Ticketbase, MashupGarage, and Proudcloud
 
-## <a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a>  
+- ## <a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a>  
 
-Interface and Brand Designer at Goodwall and CEO of The Color Cure
+  Interface and Brand Designer at Goodwall and CEO of The Color Cure
 

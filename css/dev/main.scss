@@ -393,6 +393,10 @@ img {
       background: $black;  
     }
   }
+
+  *:not(nav) > ul > li:before {
+    background: $black;  
+  }
  
 }
 
@@ -411,6 +415,10 @@ img {
     @include breakpoint(h) {
       background: $white;  
     }
+  }
+
+  *:not(nav) > ul > li:before {
+    background: $white;  
   }
  
 }
@@ -431,6 +439,10 @@ img {
       background: $yellow;  
     }
   }
+
+  *:not(nav) > ul > li:before {
+    background: $yellow;  
+  }
  
 }
 
@@ -450,6 +462,10 @@ img {
       background: $blue;  
     }
   }
+
+  *:not(nav) > ul > li:before {
+    background: $blue;  
+  }
  
 }
 
@@ -468,6 +484,10 @@ img {
     @include breakpoint(h) {
       background: $red;  
     }
+  }
+
+  *:not(nav) > ul > li:before {
+    background: $red;  
   }
  
 }
@@ -704,6 +724,8 @@ nav > ul {
 
 nav > ul > li {
   display: inline-block;
+  padding: 0;
+  margin-bottom: 0;
 }
 
 nav > ul > li > a {
