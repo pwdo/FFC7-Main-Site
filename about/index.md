@@ -46,14 +46,15 @@ You’ll hear from amazing speakers who are the best in the business. Not only a
 
 ### Can I pay offline? 
 
-The following ticket rates are available this July: 
+The following rates are available this July: 
 
 - FFC Early Bird (Oct 22) - 3,250 
 - Masterclass (Oct 23) - 2,500 
 
-We accept payments via the following Banco De Oro account: 
+You can make a deposit to one of these options:
 
-Philippine Web Designers Organization, Inc. - 0280892586
+- <a target="_blank" href="https://www.bdo.com.ph/branches-atms-locator">Banco De Oro</a>: Account 0280892586 - Philippine Web Designers Organization, Inc.
+- Globe GCash: 09175885017
 
 Once deposited, please send an email with proof of payment to payment@pwdo.org with the subject “FFC 2016 Offline Payment” and indicate the following details for EACH PARTICIPANT:
 
