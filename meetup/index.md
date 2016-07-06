@@ -1,5 +1,6 @@
 ---
 title: MiniFFC s2016e07 Drinkup
+excerpt: Coming this September 2016
 redirect:
   - http://www.eventbrite.com/o/philippine-web-designers-organization-1337746129
 
