@@ -6,7 +6,6 @@ free-color: red
 title: Convince Your Boss
 title-link: // convince
 hide-in-nav: yes
-weight: 5
 ---
 
 # Convince Your Boss
