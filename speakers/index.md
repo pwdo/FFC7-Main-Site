@@ -20,9 +20,9 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - ## <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
 
-  ### (talk to be announced)
+  ### Using Stories to Design Interfaces
 
-  Lecturer at Ateneo and User Experience Designer at Joomajam
+  Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
 
 - ## <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
 
@@ -46,4 +46,4 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   ### Panelist 
 
-  Interface and Brand Designer at Goodwall and CEO of The Color Cure
+  Lindsey has been designing for the web and brands for over 10 years. Her work has been featured on TechCrunch, Wired and NBC. She oversees design and branding for all platforms for Goodwall in Geneva, Switzerland and is CEO of Color Cure Design Studio in Quezon City.
