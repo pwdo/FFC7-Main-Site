@@ -8,6 +8,10 @@
     {% else %}{{ site.title }} &bull; Web Design Conference in Asia &bull; {{ site.date }}
     {% endif %}
   </title>
+
+  {% comment %}/// if page.redirect value exists, redirect to said URL ///{% endcomment %}
+  {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
+
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>

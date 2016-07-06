@@ -30,7 +30,7 @@ FFC is brought to you by the PWDO core team: Sophia Lucero, Kit Valmadrid, Mae P
 
 ## Partnerships
 
-Would you like to support FFC7? Check out our <a target="_blank" href="http://formfunctionclass.com/sponsor.pdf">partnership packet</a> or <a href="mailto:partners@pwdo.org">get in touch with us</a>!
+Would you like to support FFC7? Reach out to our attendees, our audience on social media, and the local web design community! Check out our <a target="_blank" href="http://formfunctionclass.com/sponsor.pdf">partnership packet</a> or <a href="mailto:partners@pwdo.org">get in touch with us</a>!
 
 ## FAQ
 
@@ -94,7 +94,7 @@ Yes! Digital certificates will be emailed after the event.
 Sure! Please sign up to request the O.R. after you check in to the event. Please make sure you have the following information ready: Name or payee or Company Name registered at the BIR, and corresponding Tax Identification Number (TIN).
 
 ### Do I need to bring my laptop?
-The FFC talks do not require participants to design or code on their laptops, but that is up to you.
+The Conference talks do not require participants to design or code on their laptops, but that is up to you. For the Masterclass, it is recommended.
 
 ### Is there a dress code for FFC?
 No dress code, but smart casual is recommended.

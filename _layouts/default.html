@@ -11,27 +11,33 @@
       <div class="nav-logo">
         {% include logo.html %}
       </div>
-      <ul>
-        <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
 
-        {% assign pages = site.pages | sort:"weight" %}
-        {% for thispage in pages %}
-          {% if thispage.title %}
-            {% comment %}/// hide Convince Your Boss page ///{% endcomment %}
-            {% if thispage.title != "Convince Your Boss" %}
-            
-              {% comment %}/// if current page is Home, don't display link to Home ///{% endcomment %}
-              {% if page.title == "Home" and thispage.title != "Home" %}
-                <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
-              {% comment %}/// otherwise, display everything ///{% endcomment %}
-              {% elsif page.title != "Home" %}
-                <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
-              {% endif %}
-            
+      {% comment %}/// if page.redirect value exists, display link to said URL ///{% endcomment %}
+      {% if page.redirect %}
+        <a class="page-link" href="{{page.redirect}}">Click here if you're not redirected</a>
+      {% comment %}/// otherwise, display normal navigation ///{% endcomment %}
+      {% else %}
+        <ul>
+          <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
+
+          {% assign pages = site.pages | sort:"weight" %}
+          {% for thispage in pages %}
+            {% comment %}/// if page.weight value exists, include in nav ///{% endcomment %}
+            {% if thispage.title and thispage.weight %}             
+              
+                {% comment %}/// if current page is Home, don't display link to Home ///{% endcomment %}
+                {% if page.title == "Home" and thispage.title != "Home" %}
+                  <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
+                {% comment %}/// otherwise, display everything ///{% endcomment %}
+                {% elsif page.title != "Home" %}
+                  <li><a href="{{ thispage.url }}">{{ thispage.title-link }}</a></li>
+                {% endif %}
+
             {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
     </nav>
 
   </body>
