@@ -4,28 +4,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <title>
     {% if page.title == "Home" %}{{ site.title }} &bull; Web Design Conference in Asia &bull; {{ site.date }}
+    {% elsif page.redirect %}{{ page.title }}
     {% elsif page.title %}{{ page.title }} &bull; {{ site.title }}
     {% else %}{{ site.title }} &bull; Web Design Conference in Asia &bull; {{ site.date }}
     {% endif %}
   </title>
-
   {% comment %}/// if page.redirect value exists, redirect to said URL ///{% endcomment %}
   {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
-
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
   <link rel="icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
+  {% if page.redirect %}
+  <meta property="og:title"  content="{{ page.title }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  {% endif %}
+  {% unless page.redirect %}
+  <meta property="og:title"  content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
+  <meta name="twitter:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
+  {% endunless %}
+  <meta name="description"         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description"  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
   <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
   <meta property="og:type" content="website">
   <meta property="og:image" content="{{ "/ogimage.png" | prepend: site.url }}">
   <meta property="og:image:type" content="image/png">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
   <meta name="twitter:site" content="@ffcph">
   <meta name="twitter:creator" content="@pwdo">
   <meta name="twitter:image:src" content="{{ "/ogimage.png" | prepend: site.url }}">
