@@ -1,5 +1,6 @@
 ---
 title: MiniFFC s2016e06 Roadshow
+excerpt: Coming this August 2016
 redirect:
   - http://www.eventbrite.com/o/philippine-web-designers-organization-1337746129
 
