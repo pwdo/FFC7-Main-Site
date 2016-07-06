@@ -16,7 +16,7 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   ### Designing with Data-Driven Documents
 
-  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost my sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she bring her international perspective in her craft making her a truly global designer.
+  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost my sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
 
 - ## <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
 
