@@ -53,8 +53,18 @@ The following rates are available this July:
 
 You can make a deposit to one of these options:
 
-- <a target="_blank" href="https://www.bdo.com.ph/branches-atms-locator">Banco De Oro</a>: Account 0280892586 - Philippine Web Designers Organization, Inc.
-- Globe GCash: 09175885017
+- #### Banco de Oro 
+    Account Number: 0280892586  
+    Account Name: Philippine Web Designers Organization, Inc.  
+    
+    <a target="_blank" href="https://www.bdo.com.ph/branches-atms-locator">View BDO branches here &rsaquo;</a>
+
+- #### Globe GCash
+    Account Number: 09175885017  
+    Please take note of the Payment Reference ID for proof of payment.  
+
+    Available via: your GCASH account, Cebuana Lhuillier, LBC, M. Lhuillier, Banco de Oro, BDO Financial (BDO On-site), SM Forex (Shoemart), One Network Bank. <a target="_blank" href="http://www.globe.com.ph/help/gcash/using-gcash">More info here &rsaquo;</a>
+
 
 Once deposited, please send an email with proof of payment to payment@pwdo.org with the subject “FFC 2016 Offline Payment” and indicate the following details for EACH PARTICIPANT:
 
