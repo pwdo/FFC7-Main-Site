@@ -96,7 +96,7 @@ Once deposited, please send an email with proof of payment to payment@pwdo.org w
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
-Student tickets are available at the following discounted rates from July to August through offline payment & our student partners:
+Student tickets are available at the following discounted rates from July to August through offline payment & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
 
 - FFC (Oct 22) - 2,000
 - Masterclass (Oct 23) - 3,000
