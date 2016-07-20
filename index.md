@@ -8,11 +8,11 @@ title-link: home { }
 weight: 1
 ---
 
-# Form Function & Class conference
+# Form Function & Class&nbsp;7 web design conference
 
-## October 22, 2016 <br> Hive Hotel QC
+## 22-23 October 2016 <br> Hive Hotel, <abbr title="Quezon City">Q.C.</abbr>
 
-Learn from the brightest minds in design & front-end at the \<form\> function() & .class conference, a not-for-profit event brought to you by the volunteers of the <a href="http://pwdo.org">Philippine Web Designers Organization</a>. 
+Learn from the brightest minds in design & front-end at the \<form\> function() & .class conference, a not-for-profit event brought to you by the volunteers of the <a href="http://pwdo.org">Philippine Web Designers Organization</a>. Day One will consist of plenary talks & panels, while Day Two will be an immersive Masterclass on front-end performance & optimization.
 
 FFC topics include HTML, CSS, JS, Design, UX, Mobile, Business, and more—you'll take home the latest ideas, tools, techniques, processes, and workflows to better your craft and advance your career. Plus, you get to mingle with fellow devs & designers, pick the brains of our speakers, and be in an environment that's ripe for exploring new collaborations & opportunities! Need to convince your boss? <a href="/convince/">We got that covered</a>.
 
