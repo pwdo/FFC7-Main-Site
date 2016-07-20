@@ -12,7 +12,7 @@ weight: 3
 
 ## Front-End Performance &&nbsp;Optimization
 
-### October 23, 2016 <br> Hive Hotel QC
+### 23 October 2016 <br> Hive Hotel, <abbr title="Quezon City">Q.C.</abbr>
 
 Last year we introduced the Masterclass, an immersive, full-day course and hands-on training by masters in the design & development industry, headlined by no other than Brad Frost. 
 
