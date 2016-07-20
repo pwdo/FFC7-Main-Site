@@ -18,6 +18,22 @@ As the pioneering web design conference in the country and this side of the worl
 
 <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your ticket now</a>!
 
+## Venue
+
+<a target="_blank" href="http://www.hivehotel.com">Hive Hotel and Convention Place</a>  
+68 Scout Tuazon corner Scout Madriñan Streets  
+Barangay South Triangle, Quezon City 1103 
+
+- ### Accommodation
+
+    If you'd like to stay close to our conference venue, we recommend both Hive and sister hotel, <a target="_blank" href="http://www.thecocoonhotel.com/">Cocoon</a>, which is just a couple of blocks away.  
+
+- ### Transportation
+    
+    We recommend going to the venue by cab or car. App-based ride services such as <a target="_blank" href="https://www.uber.com/cities/manila">Uber</a> & <a target="_blank" href="https://www.grab.com/ph/">Grab</a> are available.  
+    
+    For public mass transport, check out the commute options recommended by <a target="_blank" href="http://sakay.ph/">Sakay.ph</a>. The nearest MRT-3 stations are Quezon Avenue and GMA Kamuning.
+
 ## Code of Conduct
 
 It is important for our event to have a professional, enjoyable, harassment-free atmosphere, so all participants (whether they are organizers, speakers, sponsors, crew, or delegates) are expected to abide by our <a target="_blank" href="https://medium.com/@PWDO/pwdo-code-of-conduct-16ab6ffb5f15">Code of Conduct</a>.
@@ -61,7 +77,7 @@ You can make a deposit to one of these options:
 
 - #### Globe GCash
     Account Number: 09175885017  
-    Please take note of the Payment Reference ID for proof of payment.  
+    Please take note of the Payment Reference ID for proof of payment. Additional fees may apply.
 
     Available via: your GCASH account, Cebuana Lhuillier, LBC, M. Lhuillier, Banco de Oro, BDO Financial (BDO On-site), SM Forex (Shoemart), One Network Bank. <a target="_blank" href="http://www.globe.com.ph/help/gcash/using-gcash">More info here &rsaquo;</a>
 
