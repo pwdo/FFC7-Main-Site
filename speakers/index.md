@@ -18,17 +18,23 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - ### <a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a>
 
+  <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
+
   Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
 
 - ### <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
 
   #### Designing Cross-Cultural UI: Localizing your Visual Interface
 
+  <figure class="speaker-img"><img src="/assets/speaker-kendra.png" alt="Kendra Schaefer"></figure> 
+
   Kendra Schaefer has been living predominantly in China since 2002. A former front-end designer and art director, Kendra now writes about pretty Chinese interfaces and the Beijing tech scene, taking on the occasional UI design project.
 
 - ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
 
   #### Using Stories to Design Interfaces
+
+  <figure class="speaker-img"><img src="/assets/speaker-sam.png" alt="Sam Lorraine Chan"></figure> 
 
   Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
 
@@ -38,13 +44,19 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   #### Designing with Data-Driven Documents
 
-  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost my sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
+  <figure class="speaker-img"><img src="/assets/speaker-mika.png" alt="Mika Aldaba"></figure> 
+
+  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost her sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
 
 - ### <a target="_blank" href="https://twitter.com/cliener">Chris Lienert</a>
+
+  <figure class="speaker-img"><img src="/assets/speaker-chris.png" alt="Chris Lienert"></figure> 
 
   Chris started out as a web developer when Netscape ruled the world and is currently senior consultant at insurance broker JLT. He founded community group Singapore CSS because someone had to. Aside from musical distractions and accumulating frequent flyer points, Chris and his wife Sarah can be found in the company of their very small human.
 
 - ### <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
+
+  <figure class="speaker-img"><img src="/assets/speaker-sacha.png" alt="Sacha Greif"></figure> 
 
   Sacha is a designer from Paris, France, now living in Osaka, Japan. He specializes in user interfaces for web and mobile apps, and has worked for clients such as Le Monde, Hipmunk, and MileWise. He is also behind open source projects such as Discover Meteor, Telescope, and Sidebar.io.
 
@@ -52,8 +64,12 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   #### <a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a> 
 
+  <figure class="speaker-img"><img src="/assets/speaker-jason.png" alt="Jason Torres"></figure> 
+
   Jason has been leading Ruby on Rails engineering teams for many years and have successfully launched a couple of startups and dozens of internal and client products. He is a ruby developer and invents webtoys. He's been focusing on Ticketbase.com recently while also running MashupGarage, a new startup that focuses on high-end product development and technical leadership. He also owns Proudcloud, a Ruby on Rails service company with about 30+ Ruby on Rails engineers.
 
   #### <a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a>  
+
+  <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
 
   Lindsey has been designing for the web and brands for over 10 years. Her work has been featured on TechCrunch, Wired and NBC. She oversees design and branding for all platforms for Goodwall in Geneva, Switzerland and is CEO of Color Cure Design Studio in Quezon City.

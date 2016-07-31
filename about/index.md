@@ -62,12 +62,13 @@ You’ll hear from amazing speakers who are the best in the business. Not only a
 
 ### Can I pay offline? 
 
-The following rates are available this July: 
+Yes! The following rates are available this August: 
 
-- FFC Early Bird (Oct 22) - 3,250 
-- Masterclass (Oct 23) - 2,500 
+- Conference (Oct 22) - 3,750 
+- Masterclass (Oct 23) - 3,000 
+- Conference + Masterclass - 6,000
 
-You can make a deposit to one of these options:
+To pay offline, you can make a deposit to one of these options:
 
 - #### Banco de Oro 
     Account Number: 0280892586  
@@ -96,11 +97,11 @@ Once deposited, please send an email with proof of payment to payment@pwdo.org w
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
-Student tickets are available at the following discounted rates from July to August through offline payment & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
+Student tickets are available at the following discounted rates from July to August through [offline payment]((#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
 
-- FFC (Oct 22) - 2,000
+- Conference (Oct 22) - 2,000
 - Masterclass (Oct 23) - 3,000
-- FFC + Masterclass - 4,000 
+- Conference + Masterclass - 4,000 
 
 Please follow the offline payment instructions [above](#can-i-pay-offline), and include a copy of your valid student ID (enrolled in the current academic year) in your details.
 
@@ -131,7 +132,7 @@ You're awesome! You can follow us on
 <a target="_blank" href="https://twitter.com/ffcph">Twitter</a>, 
 <a target="_blank" href="http://pwdo.org/google+">Google+</a>, 
 <a target="_blank" href="https://instagram.com/pwdo">Instagram</a>, 
-<a target="_blank" href="http://blog.pwdo.org">Tumblr</a> and share our posts there :) 
+<a target="_blank" href="http://blog.pwdo.org">Tumblr</a> and share our posts there :) You can also use our <a target="_blank" href="https://github.com/pwdo/FFC-Social-Media">banners and avatars</a> to show your support for the event.
 
 ### Are you a legitimate organization?
 Yes, the Philippine Web Designers Organization, Inc. has been registered with the SEC as a non-profit organization since 2009, with BIR TIN 007-274-276.

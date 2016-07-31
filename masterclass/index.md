@@ -20,6 +20,8 @@ This year, Holger Bartel will go into the technical details of front-end perform
 
 ### The Speaker
 
+<figure><img src="/assets/speaker-holger.png" alt="Holger Bartel" width="180"> </figure>
+
 No stranger to the Form Function & Class conference, <a href="http://foobartel.com">Holger Bartel</a> is a web design consultant and frontend developer based in Hong Kong. He founded the design studio uforepublic and consults on strategy and designs & develops responsive and mobile websites with a focus on performance and high standards. He's also a part-time lecturer Hong Kong Polytechnic University School of Design and organizes Harbour front Hong Kong.
 
 ### Programme
