@@ -16,4 +16,4 @@ Learn from the brightest minds in design & front-end at the \<form\> function() 
 
 FFC topics include HTML, CSS, JS, Design, UX, Mobile, Business, and more—you'll take home the latest ideas, tools, techniques, processes, and workflows to better your craft and advance your career. Plus, you get to mingle with fellow devs & designers, pick the brains of our speakers, and be in an environment that's ripe for exploring new collaborations & opportunities! Need to convince your boss? <a href="/convince/">We got that covered</a>.
 
-Regular rates available until August. Student discounts, group discounts, offline payment options available. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a>!
+Student discounts, group discounts, offline payment available. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a>!
