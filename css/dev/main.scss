@@ -587,10 +587,10 @@ img {
   z-index: 20;
 
   > figure > img {
-    border: 1rem solid;
+    border: 0.5rem solid;
 
     @include breakpoint(pm) {
-      border: 0.5rem solid;      
+      // border: 0.5rem solid;      
     }
   }
 
@@ -856,7 +856,7 @@ nav > ul > li > a {
   height: 2rem;
 }
 
-/* animate page elements */
+// Animate page elements
 @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
 
 // Mobile nav bounce
@@ -895,5 +895,47 @@ nav > * {
     animation-fill-mode: forwards;
     animation-transition: 0.3s ease-in-out opacity;
     animation-delay: 1.5s;  
+  }
+}
+
+// Headings
+h3 + h4 {
+  margin-top: -.5rem;
+}
+// Clearfixes
+h2, h3, h4, h5, h6 {
+  clear: both;
+}
+li {
+  &:after {
+    display: table;
+    content: "";
+    // Fixes Opera/contenteditable bug:
+    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
+    line-height: 0;
+    clear: both;
+  }
+}
+
+// Page: Speakers
+figure.speaker-img {
+  float: left;
+  width: 180px;
+  margin: 0 15px 0 0;
+  img {
+    display: block;
+    margin-bottom: 0;
+  }
+  @include breakpoint(pm) { 
+    float: none;
+    margin: 0;
+  }
+  @include breakpoint(lm) { 
+    float: none;
+    margin: 0;
+  }
+  @include breakpoint(m) { 
+    float: none;
+    margin: 0;
   }
 }
