@@ -8,17 +8,31 @@ title-link: masterclass ( )
 weight: 3
 ---
 
-# Masterclass with Holger&nbsp;Bartel: 
+# Front-End Performance &&nbsp;Optimization
 
-## Front-End Performance &&nbsp;Optimization
+## Masterclass by Holger Bartel
 
-### 23 October 2016 <br> Hive Hotel, <abbr title="Quezon City">Q.C.</abbr>
+### 23 October 2016, 10:00 AM <br> Hive Hotel, <abbr title="Quezon City">Q.C.</abbr>
 
-Last year we introduced the Masterclass, an immersive, full-day course and hands-on training by masters in the design & development industry, headlined by no other than Brad Frost. 
+This year, Holger Bartel dives into the technical details of front-end performance and optimization: how you can supercharge your sites & webapps to load faster, respond quicker, and behave more reliably. Limited slots are available, so <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">get your tickets now</a>!
 
-This year, Holger Bartel will go into the technical details of front-end performance and optimization: how you can supercharge your sites & webapps to load faster, respond quicker, and behave more reliably. Limited slots are available, so <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">get your tickets now</a>!
+You will learn about performance strategies, as well as basic and more advanced web performance best practices, how to implement and how to measure them. Reaping the low hanging fruit will teach you how to reach performance improvements and goals rather quickly, while other techniques require more time, effort and testing to achieve the desired results.
 
-### The Speaker
+### What You'll Learn 
+
+- How to plan for high performance sites
+- General optimization strategies
+- Real vs. perceived performance
+- Image optimization and image formats
+- Optimizing CSS & JS 
+- Best practices for HTTP1.x & HTTP2
+- Layout, Paint, and 60FPS
+- Rendering performance 
+- Optimizing the critical rendering path
+- How to use Chrome Dev Tools to analyze performance bottlenecks
+- Additional performance and automation tools
+
+### About the Speaker
 
 <figure><img src="/assets/speaker-holger.png" alt="Holger Bartel" width="180"> </figure>
 
