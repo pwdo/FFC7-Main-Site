@@ -30,36 +30,6 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   Kendra Schaefer has been living predominantly in China since 2002. A former front-end designer and art director, Kendra now writes about pretty Chinese interfaces and the Beijing tech scene, taking on the occasional UI design project.
 
-- ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
-
-  #### Using Stories to Design Interfaces
-
-  <figure class="speaker-img"><img src="/assets/speaker-sam.png" alt="Sam Lorraine Chan"></figure> 
-
-  Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
-
-## Afternoon Sessions
-
-- ### <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
-
-  #### Designing with Data-Driven Documents
-
-  <figure class="speaker-img"><img src="/assets/speaker-mika.png" alt="Mika Aldaba"></figure> 
-
-  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost her sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
-
-- ### <a target="_blank" href="https://twitter.com/cliener">Chris Lienert</a>
-
-  <figure class="speaker-img"><img src="/assets/speaker-chris.png" alt="Chris Lienert"></figure> 
-
-  Chris started out as a web developer when Netscape ruled the world and is currently senior consultant at insurance broker JLT. He founded community group Singapore CSS because someone had to. Aside from musical distractions and accumulating frequent flyer points, Chris and his wife Sarah can be found in the company of their very small human.
-
-- ### <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
-
-  <figure class="speaker-img"><img src="/assets/speaker-sacha.png" alt="Sacha Greif"></figure> 
-
-  Sacha is a designer from Paris, France, now living in Osaka, Japan. He specializes in user interfaces for web and mobile apps, and has worked for clients such as Le Monde, Hipmunk, and MileWise. He is also behind open source projects such as Discover Meteor, Telescope, and Sidebar.io.
-
 - ### Panel: The Business of Design
 
   #### <a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a> 
@@ -73,3 +43,41 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
   <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
 
   Lindsey has been designing for the web and brands for over 10 years. Her work has been featured on TechCrunch, Wired and NBC. She oversees design and branding for all platforms for Goodwall in Geneva, Switzerland and is CEO of Color Cure Design Studio in Quezon City.
+
+## Afternoon Sessions
+
+- ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
+
+  #### Using Stories to Design Interfaces
+
+  <figure class="speaker-img"><img src="/assets/speaker-sam.png" alt="Sam Lorraine Chan"></figure> 
+
+  Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
+
+- ### <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
+
+  #### Designing with Data-Driven Documents
+
+  <figure class="speaker-img"><img src="/assets/speaker-mika.png" alt="Mika Aldaba"></figure> 
+
+  Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost her sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
+
+- ### <a target="_blank" href="https://twitter.com/cliener">Chris Lienert</a>
+    
+  ### Bad Form
+
+  <figure class="speaker-img"><img src="/assets/speaker-chris.png" alt="Chris Lienert"></figure> 
+
+  Chris started out as a web developer when Netscape ruled the world and is currently senior consultant at insurance broker JLT. He founded community group Singapore CSS because someone had to. Aside from musical distractions and accumulating frequent flyer points, Chris and his wife Sarah can be found in the company of their very small human.
+
+- ### <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
+
+  ### The State of JavaScript
+
+  <figure class="speaker-img"><img src="/assets/speaker-sacha.png" alt="Sacha Greif"></figure> 
+
+  Sacha is a designer from Paris, France, now living in Osaka, Japan. He specializes in user interfaces for web and mobile apps, and has worked for clients such as Le Monde, Hipmunk, and MileWise. He is also behind open source projects such as Discover Meteor, Telescope, and Sidebar.io.
+
+- ### Panel: Speaker Q&A
+
+  Deane, Kendra, Sam, Mika, Chris, and Sacha will take questions from the audience.
