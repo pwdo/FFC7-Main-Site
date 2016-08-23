@@ -90,6 +90,7 @@ Once deposited, please send an email with proof of payment to <a href="mailto:pa
 - Gender:  
 - Email: 
 - Mobile Number:
+- City:
 - Occupation:  
 - Organization:  
 - Question/s for the speakers:
@@ -107,6 +108,9 @@ Please follow the offline payment instructions [above](#can-i-pay-offline), and 
 
 ### Can I get a group discount?
 Group discounts are available to all professionals (not students) at a special 3+1 rate: purchase 3 tickets of the same type and you get 1 ticket free. Send an email to <a href="mailto:payment@pwdo.org?subject=FFC%202016%20Group%20Discount">payment@pwdo.org</a> with the subject “FFC 2016 Group Discount” indicating the number and type of tickets you wish to purchase, and we will get back to you.
+
+### I live outside Luzon. Can I get a discount?
+We have a special discount for Visayas & Mindanao residents. <a target="_blank" href="http://bit.ly/ffc7-vismin">Click here</a> to avail of it!
 
 ### Is my ticket transferrable?
 Sorry, tickets are not transferrable.
