@@ -1,8 +1,8 @@
 ---
-title: MiniFFC s2016e07 Drinkup
-excerpt: Coming this September 2016
+title: MiniFFC s2016e06 PWDOxUXPH Joint Meetup
+excerpt: September 7, 2016
 redirect:
-  - http://www.eventbrite.com/o/philippine-web-designers-organization-1337746129
+  - https://www.eventbrite.com/e/miniffc-s2016e06-pwdoxuxph-joint-meetup-tickets-27225964593
 
 layout: curly
 main-color: blue
@@ -10,6 +10,8 @@ border-color: red
 free-color: white
 ---
 
-# MiniFFC s2016e07: Drinkup
+# MiniFFC s2016e06: PWDOxUXPH Joint Meetup
 
-## September 2016
+## September 7, 2016 <br> 6:30 PM
+
+## Globe Telepark <br> Valero, Makati
