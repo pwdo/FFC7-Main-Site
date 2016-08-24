@@ -1,6 +1,6 @@
 ---
 title: MiniFFC s2016e06 PWDOxUXPH Joint Meetup
-excerpt: September 7, 2016
+excerpt: September 7, 2016 at Globe Telepark Valero, Makati
 redirect:
   - https://www.eventbrite.com/e/miniffc-s2016e06-pwdoxuxph-joint-meetup-tickets-27225964593
 

@@ -15,29 +15,34 @@
   <link rel="icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  
   {% if page.redirect %}
   <meta property="og:title"  content="{{ page.title }}">
   <meta name="twitter:title" content="{{ page.title }}">
-  {% endif %}
-  {% unless page.redirect %}
+
+  <link rel="canonical"      href="{{ page.redirect }}">
+  <meta property="og:url" content="{{ page.redirect }}">
+  {% else %}
   <meta property="og:title"  content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
   <meta name="twitter:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
-  {% endunless %}
+
+  <meta property="og:image"      content="{{ "/ogimage.png" | prepend: site.url }}">
+  <meta name="twitter:image:src" content="{{ "/ogimage.png" | prepend: site.url }}">
+  <meta property="og:image:type" content="image/png">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ site.url }}">
+  {% endif %}
   <meta name="description"         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:description"  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <meta property="og:url" content="{{ site.url }}">
   
   <meta property="og:type" content="website">
-  <meta property="og:image" content="{{ "/ogimage.png" | prepend: site.url }}">
-  <meta property="og:image:type" content="image/png">
-  <meta name="twitter:card" content="summary_large_image">
   
   <meta name="twitter:site" content="@ffcph">
   <meta name="twitter:creator" content="@pwdo">
-  <meta name="twitter:image:src" content="{{ "/ogimage.png" | prepend: site.url }}">
+  
   <script src="https://use.typekit.net/fed2dzd.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
