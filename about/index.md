@@ -62,10 +62,10 @@ You’ll hear from amazing speakers who are the best in the business. Not only a
 
 ### Can I pay offline? 
 
-Yes! The following rates are available this August: 
+Yes! The following rates are available this September: 
 
-- Conference (Oct 22) - 3,750 
-- Masterclass (Oct 23) - 3,000 
+- Conference (Oct 22) - 4,000 
+- Masterclass (Oct 23) - 3,250 
 - Conference + Masterclass - 6,000
 
 To pay offline, you can make a deposit to one of these options:
@@ -83,31 +83,31 @@ To pay offline, you can make a deposit to one of these options:
     Available via: your GCASH account, Cebuana Lhuillier, LBC, M. Lhuillier, Banco de Oro, BDO Financial (BDO On-site), SM Forex (Shoemart), One Network Bank. <a target="_blank" href="http://www.globe.com.ph/help/gcash/using-gcash">More info here &rsaquo;</a>
 
 
-Once deposited, please send an email with proof of payment to <a href="mailto:payment@pwdo.org?subject=FFC%202016%20Offline%20Payment">payment@pwdo.org</a> with the subject “FFC 2016 Offline Payment” and indicate the following details for EACH PARTICIPANT:
+Once deposited, please send an email with proof of payment to <a target="_blank" href="mailto:payment@pwdo.org?subject=FFC%202016%20Offline%20Payment">payment@pwdo.org</a> with the subject “FFC 2016 Offline Payment” and indicate the following details for EACH PARTICIPANT:
 
 - Ticket Type: 
 - Name:  
-- Gender:  
 - Email: 
 - Mobile Number:
-- City:
 - Occupation:  
-- Organization:  
+- Company/School/Affiliation:  
+- Gender:  
 - Question/s for the speakers:
+- City:
 
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
-Student tickets are available at the following discounted rates from July to August through [offline payment](#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
+Student tickets are available at the following discounted rates this September through [offline payment](#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
 
 - Conference (Oct 22) - 2,000
 - Masterclass (Oct 23) - 3,000
 - Conference + Masterclass - 4,000 
 
-Please follow the offline payment instructions [above](#can-i-pay-offline), and include a copy of your valid student ID (enrolled in the current academic year) in your details.
+Please follow the offline payment instructions [above](#can-i-pay-offline), and make sure to include proof of enrollment (e.g. school ID, enrollment form) in your details.
 
 ### Can I get a group discount?
-Group discounts are available to all professionals (not students) at a special 3+1 rate: purchase 3 tickets of the same type and you get 1 ticket free. Send an email to <a href="mailto:payment@pwdo.org?subject=FFC%202016%20Group%20Discount">payment@pwdo.org</a> with the subject “FFC 2016 Group Discount” indicating the number and type of tickets you wish to purchase, and we will get back to you.
+Group discounts are available to all professionals (not students) at a special 3+1 rate: purchase 3 tickets of the same type and you get 1 ticket free. Send an email to <a target="_blank" href="mailto:payment@pwdo.org?subject=FFC%202016%20Group%20Discount">payment@pwdo.org</a> with the subject “FFC 2016 Group Discount” indicating the number and type of tickets you wish to purchase, and we will get back to you.
 
 ### I live outside Luzon. Can I get a discount?
 We have a special discount for Visayas & Mindanao residents. <a target="_blank" href="http://bit.ly/ffc7-vismin">Click here</a> to avail of it!
@@ -142,4 +142,4 @@ You're awesome! You can follow us on
 Yes, the Philippine Web Designers Organization, Inc. has been registered with the SEC as a non-profit organization since 2009, with BIR TIN 007-274-276.
 
 ### I have more questions!
-Please send us an email at <a href="mailto:info@pwdo.org?subject=FFC7%20Question">info@pwdo.org</a>
+Please send us an email at <a target="_blank" href="mailto:info@pwdo.org?subject=FFC7%20Question">info@pwdo.org</a>
