@@ -30,7 +30,7 @@ All pumped to attend FFC? Great!
 
 ## Now, to convince the boss.
 
-- Your boss will want to send you when you explain that this will be helpful for your team. You can stress the real benefits of attending the conference, like:
+Your boss will want to send you when you explain that this will be helpful for your team. You can stress the real benefits of attending the conference, like:
 
 - FFC gives me a 360° view of all the very latest and most effective web design trends and tactics: atomic design, UX, HTML5, new frameworks, and philosophies — everything we need to make our websites & apps become more meaningful to our users. How can we NOT go?
 You want to know how much we should be charging for customers for our web design work, right? Well here’s a chance to get some intel on pricing with those in the industry.

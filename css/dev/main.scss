@@ -939,3 +939,25 @@ figure.speaker-img {
     margin: 0 0 1rem;
   }
 }
+
+// Sponsors
+#sponsors {
+  margin-top: 10rem;
+  @include breakpoint(m) { 
+    text-align: center;
+  }
+}
+.sponsor-row {
+  @include breakpoint(m) { 
+    text-align: center;
+  }
+}
+.partner {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 1.5rem;
+  margin-top: 1rem;
+  img {
+    margin-bottom: 0;
+  }
+}
