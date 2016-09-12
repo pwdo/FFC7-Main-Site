@@ -16,11 +16,13 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 ## Morning Sessions
 
-- ### <a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a>
+- ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
 
-  <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
+  #### Using Stories to Design Interfaces
 
-  Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
+  <figure class="speaker-img"><img src="/assets/speaker-sam.png" alt="Sam Lorraine Chan"></figure> 
+
+  Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
 
 - ### <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
 
@@ -46,13 +48,11 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 ## Afternoon Sessions
 
-- ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
+- ### <a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a>
 
-  #### Using Stories to Design Interfaces
+  <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
 
-  <figure class="speaker-img"><img src="/assets/speaker-sam.png" alt="Sam Lorraine Chan"></figure> 
-
-  Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
+  Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
 
 - ### <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
 
