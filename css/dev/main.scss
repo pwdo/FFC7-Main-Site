@@ -424,8 +424,12 @@ img {
     }
   }
 
-  *:not(nav) > ul > li:before {
+  *:not(nav) > ul > li:before, {
     background: $black;  
+  }
+
+  .speakers & *:not(nav) > ul > li:after {
+    border-right-color: $black;
   }
  
 }
@@ -456,8 +460,12 @@ img {
     }
   }
 
-  *:not(nav) > ul > li:before {
+  *:not(nav) > ul > li:before, {
     background: $white;  
+  }
+
+  .speakers & *:not(nav) > ul > li:after {
+    border-right-color: $white;
   }
  
 }
@@ -488,8 +496,12 @@ img {
     }
   }
 
-  *:not(nav) > ul > li:before {
+  *:not(nav) > ul > li:before, {
     background: $yellow;  
+  }
+
+  .speakers & *:not(nav) > ul > li:after {
+    border-right-color: $yellow;
   }
  
 }
@@ -520,8 +532,12 @@ img {
     }
   }
 
-  *:not(nav) > ul > li:before {
+  *:not(nav) > ul > li:before, {
     background: $blue;  
+  }
+
+  .speakers & *:not(nav) > ul > li:after {
+    border-right-color: $blue; 
   }
  
 }
@@ -552,8 +568,12 @@ img {
     }
   }
 
-  *:not(nav) > ul > li:before {
+  *:not(nav) > ul > li:before, {
     background: $red;  
+  }
+
+  .speakers & *:not(nav) > ul > li:after {
+    border-right-color: $red; 
   }
  
 }
@@ -906,20 +926,19 @@ h3 + h4 {
 h2, h3, h4, h5, h6 {
   clear: both;
 }
-li {
-  &:after {
-    display: table;
-    content: "";
-    // Fixes Opera/contenteditable bug:
-    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
-    line-height: 0;
-    clear: both;
-  }
-}
+// li {
+//   &:after {
+//     display: table;
+//     content: "";
+//     // Fixes Opera/contenteditable bug:
+//     // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
+//     line-height: 0;
+//     clear: both;
+//   }
+// }
 
 // Page: Speakers
 figure.speaker-img {
-  float: left;
   width: 180px;
   margin: 0 15px 0 0;
   img {
@@ -927,17 +946,56 @@ figure.speaker-img {
     margin-bottom: 0;
   }
   @include breakpoint(pm) { 
-    float: none;
     margin: 0 0 1rem;
   }
   @include breakpoint(lm) { 
-    float: none;
     margin: 0 0 1rem;
   }
   @include breakpoint(m) { 
-    float: none;
     margin: 0 0 1rem;
   }
+}
+
+.speakers *:not(nav) > ul > li {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+
+  > h3, h4 {
+    width: 100%;
+    flex: 1 1 auto;
+  }
+
+  > p {
+    width: calc(100% - 195px);
+
+    @include breakpoint(pm) { 
+      width: 100%;
+    }
+    @include breakpoint(lm) { 
+      width: 100%;
+    }
+    @include breakpoint(m) { 
+      width: 100%;
+    }
+  }
+}
+
+.speakers *:not(nav) > ul > li:after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  bottom: -0.7rem;
+  left: -25px;
+  border: 20px solid #fff;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 0px solid transparent;
+  transform: rotate(45deg);
+  transform-origin: 0% 50%;
+  display: block;
 }
 
 // Sponsors
