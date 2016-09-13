@@ -16,4 +16,4 @@ exclude: ["node_modules", "bower_components", "Gruntfile.js", "package.json", "b
 markdown: kramdown
 
 kramdown:
-  auto_ids: false
+  auto_ids: true
