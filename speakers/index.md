@@ -10,13 +10,13 @@ weight: 2
 
 # Speakers
 
-Programme reminders: check-in registration starts at 7:30 am, doors will close at 8:50 am, and the first speaker shall begin at 9:00 am.
+October 22 programme reminders: check-in registration starts at 7:30 am, doors will close at 8:50 am, and the first speaker shall begin at 9:00 am.
 
 More speakers & details will be announced soon. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Register for FFC7 now</a>!
 
 ## Morning Sessions
 
-- ### <a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a>
+- <h3 id="sam-lorraine-chan"><a target="_blank" href="https://www.linkedin.com/in/samlorrainechan">Sam Lorraine Chan</a></h3>
 
   #### Using Stories to Design Interfaces
 
@@ -24,7 +24,7 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
 
-- ### <a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> 
+- <h3 id=""><a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> </h3>
 
   #### Designing Cross-Cultural UI: Localizing your Visual Interface
 
@@ -34,13 +34,13 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - ### Panel: The Business of Design
 
-  #### <a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a> 
+  <h4 id="jason-torres"><a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a></h4> 
 
   <figure class="speaker-img"><img src="/assets/speaker-jason.png" alt="Jason Torres"></figure> 
 
   Jason has been leading Ruby on Rails engineering teams for many years and have successfully launched a couple of startups and dozens of internal and client products. He is a ruby developer and invents webtoys. He's been focusing on Ticketbase.com recently while also running MashupGarage, a new startup that focuses on high-end product development and technical leadership. He also owns Proudcloud, a Ruby on Rails service company with about 30+ Ruby on Rails engineers.
 
-  #### <a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a>  
+  <h4 id="lindsey-grande"><a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a></h4>  
 
   <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
 
@@ -48,13 +48,13 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 ## Afternoon Sessions
 
-- ### <a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a>
+- <h3 id="deane-miguel"><a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a></h3>
 
   <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
 
   Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
 
-- ### <a target="_blank" href="http://mika.ph">Mika Aldaba</a>
+- <h3 id="mika-aldaba"><a target="_blank" href="http://mika.ph">Mika Aldaba</a></h3>
 
   #### Designing with Data-Driven Documents
 
@@ -62,17 +62,17 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   Mika decided to be a designer after a clerical error resulted in the loss of her course transfer paperwork in college. Fate sent her to do an exchange student semester in San Francisco and she never lost her sense of wanderlust since then. Her travels have sent her around Asia, Europe and the US while improving her trade in graphic, web and mobile UX design and data visualization. Being passionate about world issues, she brings her international perspective in her craft making her a truly global designer.
 
-- ### <a target="_blank" href="https://twitter.com/cliener">Chris Lienert</a>
+- <h3 id="chris-lienert"><a target="_blank" href="https://twitter.com/cliener">Chris Lienert</a></h3>
     
-  ### Bad Form
+  #### Bad Form
 
   <figure class="speaker-img"><img src="/assets/speaker-chris.png" alt="Chris Lienert"></figure> 
 
   Chris started out as a web developer when Netscape ruled the world and is currently senior consultant at insurance broker JLT. He founded community group Singapore CSS because someone had to. Aside from musical distractions and accumulating frequent flyer points, Chris and his wife Sarah can be found in the company of their very small human.
 
-- ### <a target="_blank" href="http://sachagreif.com">Sacha Greif</a> 
+- <h3 id="sacha-greif"><a target="_blank" href="http://sachagreif.com">Sacha Greif</a> </h3>
 
-  ### The State of JavaScript
+  #### The State of JavaScript
 
   <figure class="speaker-img"><img src="/assets/speaker-sacha.png" alt="Sacha Greif"></figure> 
 
@@ -81,3 +81,4 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 - ### Panel: Speaker Q&A
 
   Deane, Kendra, Sam, Mika, Chris, and Sacha will take questions from the audience.
+

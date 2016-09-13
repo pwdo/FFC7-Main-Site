@@ -40,4 +40,4 @@ No stranger to the Form Function & Class conference, <a href="http://foobartel.c
 
 ### Programme
 
-The Masterclass will start at 10:00 am. Further details will be posted shortly.
+October 23 reminders: the Masterclass will start at 10:00 am. Further details will be posted shortly.
