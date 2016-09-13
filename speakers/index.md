@@ -24,7 +24,7 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   Inspired by cartoons and animated films, Sam grew up as a storyteller who later studied interface design and front-end development before finally settling down in the field of UX. She is currently a free agent, working with startups and agencies to architect delightful experiences for their customers. Above all, Sam is most passionate about design education, frequently conducting talks and seminars related to UX. Recently, she started teaching information architecture and interface design at Ateneo de Manila University.
 
-- <h3 id=""><a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> </h3>
+- <h3 id="kendra-schaefer"><a target="_blank" href="http://www.kendraschaefer.com/">Kendra Schaefer</a> </h3>
 
   #### Designing Cross-Cultural UI: Localizing your Visual Interface
 
@@ -80,5 +80,5 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - ### Panel: Speaker Q&A
 
-  Deane, Kendra, Sam, Mika, Chris, and Sacha will take questions from the audience.
+  <a href="#deane-miguel">Deane</a>, <a href="#kendra-schaefer">Kendra</a>, <a href="#sam-lorraine-chan">Sam</a>, <a href="#mika-aldaba">Mika</a>, <a href="#chris-lienert">Chris</a>, and <a href="#sacha-greif">Sacha</a> will take questions from the audience.
 
