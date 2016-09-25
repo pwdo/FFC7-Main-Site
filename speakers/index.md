@@ -50,6 +50,8 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - <h3 id="deane-miguel"><a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a></h3>
 
+  #### Creating Brand Experiences For Real Human Beings
+
   <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
 
   Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
