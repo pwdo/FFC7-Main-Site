@@ -16,7 +16,7 @@ Learn from the brightest minds in design & front-end at the \<form\> function() 
 
 FFC topics include HTML, CSS, JS, Design, UX, Mobile, Business, and more—you'll take home the latest ideas, tools, techniques, processes, and workflows to better your craft and advance your career. Plus, you get to mingle with fellow devs & designers, pick the brains of our speakers, and be in an environment that's ripe for exploring new collaborations & opportunities! Need to convince your boss? <a href="/convince/">We got that covered</a>.
 
-Student discounts, group discounts, offline payment available. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a>!
+Student discounts, group discounts, offline payment available. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a> before registration closes on October 16!
 
 <p id="sponsors">FFC is made possible with the help of our <a target="_blank" href="sponsor.pdf">partners</a>:</p>
 
@@ -32,7 +32,7 @@ Student discounts, group discounts, offline payment available. <a target="_blank
     <a class="partner" target="_blank" href="https://www.canva.com/"><img src="/assets/partner-canva.png" alt="Canva" height="90"></a> 
     <a class="partner" target="_blank" href="http://pragprog.com/"><img src="/assets/partner-pragprog.png" alt="The Pragmatic Bookshelf" height="45"></a> 
     <a class="partner" target="_blank" href="http://skillshare.com/"><img src="/assets/partner-skillshare.png" alt="Skillshare" height="25"></a> 
-    <a class="partner" target="_blank" href="https://sketchapp.com/"><img src="/assets/partner-sketch.png" alt="Skillshare" height="35"></a> 
+    <a class="partner" target="_blank" href="https://sketchapp.com/"><img src="/assets/partner-sketch.png" alt="Sketch" height="35"></a> 
     <a class="partner" target="_blank" href="https://abookapart.com"><img src="/assets/partner-abookapart.png" alt="A Book Apart" height="30"></a> 
     <a class="partner" target="_blank" href="https://zeplin.io"><img src="/assets/partner-zeplin.png" alt="Zeplin" height="40"></a> 
 </p>

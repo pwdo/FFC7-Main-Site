@@ -50,6 +50,9 @@ Would you like to support FFC7? Reach out to our attendees, our audience on soci
 
 ## FAQ
 
+### When does registration close?
+Registration closes on October 16, so get your tickets now!
+
 ### For whom is this conference?
 Web designers, front-end designers & developers, user interface designers, interaction designers, mobile designers, user experience designers, graphic designers, web developers, webmasters, bloggers, marketers, social media managers who do web design, media practitioners, students in information technology, visual communication, multimedia arts, human computer interaction, and other related professions. If you work on web and mobile interfaces, FFC is for you.
 
@@ -98,7 +101,7 @@ Once deposited, please send an email with proof of payment to <a target="_blank"
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
-Student tickets are available at the following discounted rates this September through [offline payment](#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
+Student tickets are available at the following discounted rates until October 16 through [offline payment](#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
 
 - Conference (Oct 22) - 2,000
 - Masterclass (Oct 23) - 3,000
