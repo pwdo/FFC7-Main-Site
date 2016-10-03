@@ -46,6 +46,12 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   Lindsey has been designing for the web and brands for over 10 years. Her work has been featured on TechCrunch, Wired and NBC. She oversees design and branding for all platforms for Goodwall in Geneva, Switzerland and is CEO of Color Cure Design Studio in Quezon City.
 
+  <h4 id="russell-vergara"><a target="_blank" href="http://www.vgrafiks.com">Russell Vergara</a></h4>
+
+  <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
+
+  He sold his first PUTO when he was six. He worked as a waiter for Burgoo, and as an In-room dining assistant at Sheraton Park Hotel. In London.  He’s an only child, so he’s kinda spoiled. He was 80 pounds lighter, nung hindi pa uso ang extra rice. He studied 7 courses 7 different schools. But he never graduated. He’s not very bright kasi. But he’s very madiskarte. He’s Russell. The Big Daddy of Vigi.
+
 ## Afternoon Sessions
 
 - <h3 id="deane-miguel"><a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a></h3>
