@@ -24,6 +24,7 @@ Student discounts, group discounts, offline payment available. <a target="_blank
     <a class="partner" target="_blank" href="https://www.facebook.com/ustcodec/"><img src="/assets/partner-ustcodec.png" alt="UST Coders Development Circle" height="120"></a>
     <a class="partner" target="_blank" href="https://www.facebook.com/TomasinoWeb/"><img src="/assets/partner-usttomasinoweb.png" alt="UST TomasinoWeb" height="100"></a>
     <a class="partner" target="_blank" href="http://dlsu-lscs.org/"><img src="/assets/partner-lscs.png" alt="DLSU La Salle Computer Society" height="120"></a>
+    <a class="partner" target="_blank" href="https://www.facebook.com/USTInformationSystemsSociety/"><img src="/assets/partner-ustiss.png" alt="UST Information Systems Society" height="120"></a>
 </p>
 <p class="sponsor-row">
     <a class="partner" target="_blank" href="https://balsamiq.com/"><img src="/assets/partner-balsamiq.png" alt="Balsamiq" height="50"></a>

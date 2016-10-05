@@ -16,7 +16,11 @@ The name FFC alludes to the 3 elements of a website (\<form\> from HTML, functio
 
 As the pioneering web design conference in the country and this side of the world, we have drawn crowds of over 300 professionals & students each year from the fields of design, development, IT, marketing, user experience, interaction design, mobile, business, and more.
 
-<a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your ticket now</a>!
+<a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a>! Registration closes on October 16.
+
+## Reminders
+
+Please take note of our important <a href="/reminders/">Reminders</a> for the event.
 
 ## Venue
 
@@ -51,7 +55,7 @@ Would you like to support FFC7? Reach out to our attendees, our audience on soci
 ## FAQ
 
 ### When does registration close?
-Registration closes on October 16, so get your tickets now!
+Registration closes on October 16, so <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">get your tickets now</a>!
 
 ### For whom is this conference?
 Web designers, front-end designers & developers, user interface designers, interaction designers, mobile designers, user experience designers, graphic designers, web developers, webmasters, bloggers, marketers, social media managers who do web design, media practitioners, students in information technology, visual communication, multimedia arts, human computer interaction, and other related professions. If you work on web and mobile interfaces, FFC is for you.
@@ -101,7 +105,7 @@ Once deposited, please send an email with proof of payment to <a target="_blank"
 Please allow for at least 24 hours processing time.
 
 ### Can I get a student discount?
-Student tickets are available at the following discounted rates until October 16 through [offline payment](#can-i-pay-offline) & our student partner, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a>:
+Student tickets are available at the following discounted rates until October 16 through [offline payment](#can-i-pay-offline) & our student partners, <a target="_blank" href="http://dlsu-lscs.org/">La Salle Computer Society</a> &amp; <a target="_blank" href="https://www.facebook.com/ustcodec/">UST CODEC</a>:
 
 - Conference (Oct 22) - 2,000
 - Masterclass (Oct 23) - 3,000
@@ -142,7 +146,7 @@ You're awesome! You can follow us on
 <a target="_blank" href="http://blog.pwdo.org">Tumblr</a> and share our posts there :) You can also use our <a target="_blank" href="https://github.com/pwdo/FFC-Social-Media">banners and avatars</a> to show your support for the event.
 
 ### Are you a legitimate organization?
-Yes, the Philippine Web Designers Organization, Inc. has been registered with the SEC as a non-profit organization since 2009, with BIR TIN 007-274-276.
+Yes, the Philippine Web Designers Organization, Inc. has been registered with the SEC as a non-profit organization since 2009, with BIR TIN 007-274-276 (NONVAT).
 
 ### I have more questions!
 Please send us an email at <a target="_blank" href="mailto:info@pwdo.org?subject=FFC7%20Question">info@pwdo.org</a>
