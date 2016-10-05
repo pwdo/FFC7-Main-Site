@@ -10,9 +10,9 @@ weight: 2
 
 # Speakers
 
-October 22 programme reminders: check-in registration starts at 7:30 am, doors will close at 8:50 am, and the first speaker shall begin at 9:00 am.
+October 22 programme reminders: check-in registration starts at 7:30 am, doors will close at 8:50 am, and the first speaker shall begin at 9:00 am. Please refer to the rest of our <a href="/reminders/">reminders here</a>.
 
-More speakers & details will be announced soon. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Register for FFC7 now</a>!
+<a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your FFC7 tickets now</a>! Registration ends on October 16.
 
 ## Morning Sessions
 
@@ -48,7 +48,7 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
   <h4 id="russell-vergara"><a target="_blank" href="http://www.vgrafiks.com">Russell Vergara</a></h4>
 
-  <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
+  <figure class="speaker-img"><img src="/assets/speaker-russell.png" alt="Lindsey Grande"></figure> 
 
   He sold his first PUTO when he was six. He worked as a waiter for Burgoo, and as an In-room dining assistant at Sheraton Park Hotel. In London.  He’s an only child, so he’s kinda spoiled. He was 80 pounds lighter, nung hindi pa uso ang extra rice. He studied 7 courses 7 different schools. But he never graduated. He’s not very bright kasi. But he’s very madiskarte. He’s Russell. The Big Daddy of Vigi.
 
@@ -80,7 +80,7 @@ More speakers & details will be announced soon. <a target="_blank" href="https:/
 
 - <h3 id="sacha-greif"><a target="_blank" href="http://sachagreif.com">Sacha Greif</a> </h3>
 
-  #### The State of JavaScript
+  #### Matter of State 
 
   <figure class="speaker-img"><img src="/assets/speaker-sacha.png" alt="Sacha Greif"></figure> 
 
