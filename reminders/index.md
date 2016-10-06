@@ -13,7 +13,7 @@ hide-in-nav: yes
 
     On October 22, check-in starts at 7:30 am and doors will close at 8:50 am.
 
-    On October 23, check-in starts at 9:00 am and doors will close at 9:50 am.
+    On October 23, check-in starts at 8:30 am and doors will close at 9:50 am.
 
     There is no need to print your ticket, you can show an electronic copy during check-in. Make sure you have valid ID ready.
 
