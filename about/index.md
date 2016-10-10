@@ -32,6 +32,8 @@ Barangay South Triangle, Quezon City 1103
 
     If you'd like to stay close to our conference venue, we recommend both Hive and sister hotel, <a target="_blank" href="http://www.thecocoonhotel.com/">Cocoon</a>, which is just a couple of blocks away.  
 
+    We have a special room rates for FFC7 participants: just show your electronic ticket and inquire about it!
+
 - ### Transportation
     
     We recommend going to the venue by cab or car. App-based ride services such as <a target="_blank" href="https://www.uber.com/cities/manila">Uber</a> & <a target="_blank" href="https://www.grab.com/ph/">Grab</a> are available.  
@@ -129,7 +131,7 @@ We will accept refunds until one month before the event only (September 22, 2016
 Yes! Digital certificates will be emailed after the event.
 
 ### Can I get an official receipt?
-Sure! Please sign up to request the O.R. after you check in to the event. Please make sure you have the following information ready: Name or payee or Company Name registered at the BIR, and corresponding Tax Identification Number (TIN).
+Sure! Please sign up to request the O.R. after you check in to the event. Please make sure you have the following information ready: Name of ticketholder or Company name registered at the BIR and the corresponding Tax Identification Number (TIN).
 
 ### Do I need to bring my laptop?
 The Conference does not require participants to design or code on their laptops, but that is up to you. For the Masterclass, it is recommended.

@@ -17,11 +17,17 @@ hide-in-nav: yes
 
     There is no need to print your ticket, you can show an electronic copy during check-in. Make sure you have valid ID ready.
 
+    Swags will be distributed on a first-come, first-serve basis, so we suggest you come early! 
+
 -   ## Code of Conduct 
 
     All participants are expected to comply with the [Code of Conduct](https://medium.com/@PWDO/pwdo-code-of-conduct-16ab6ffb5f15).
 
     Those who are found to violate the Code shall be: (a) facing sanctions: (b) asked to leave the premises; (c) banned from future PWDO events; (d) one or more of the above.
+
+-   ## Official Receipt
+
+    Please sign up to request the O.R. after you check-in to the event. Please make sure you have the following information ready: Name of ticketholder or Company name registered at the BIR and the corresponding Tax Identification Number (TIN).
 
 -   ## Devices &amp; Internet 
 
@@ -33,7 +39,7 @@ hide-in-nav: yes
 
 -   ## Dress Code 
 
-    There are no attire restrictions at the venue, although smart casual is recommended. You might want to bring a jacket in case it gets too chilly. We encourage past FFC participants to wear their FFC shirts ;)
+    There are no attire restrictions at the venue, although smart casual is recommended. You might want to bring a jacket in case it gets too chilly. We encourage past FFC participants to wear their FFC shirts and bring their old conference gear ;)
 
 -   ## Food 
 
