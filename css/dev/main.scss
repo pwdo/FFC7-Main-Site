@@ -615,7 +615,8 @@ img {
   }
 
   @media only screen and (max-width: 939px) and (min-width: 768px) {
-    padding-right: 20vw;
+    // padding-right: 20vw;
+      padding-right: 14vw;
   }
 
   @include breakpoint(t) {
@@ -1015,7 +1016,15 @@ figure.speaker-img {
   vertical-align: middle;
   margin-right: 1.5rem;
   margin-top: 1rem;
+  &:last-child {
+    margin-right: 0;
+  }
+  @include breakpoint(m) {  
+    margin-left:  .5rem;
+    margin-right: .5rem;
+  }
   img {
+    max-width: none;
     margin-bottom: 0;
   }
 }
