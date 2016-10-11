@@ -34,12 +34,6 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
 
 - ### Panel: The Business of Design
 
-  <h4 id="jason-torres"><a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a></h4> 
-
-  <figure class="speaker-img"><img src="/assets/speaker-jason.png" alt="Jason Torres"></figure> 
-
-  Jason has been leading Ruby on Rails engineering teams for many years and have successfully launched a couple of startups and dozens of internal and client products. He is a ruby developer and invents webtoys. He's been focusing on Ticketbase.com recently while also running MashupGarage, a new startup that focuses on high-end product development and technical leadership. He also owns Proudcloud, a Ruby on Rails service company with about 30+ Ruby on Rails engineers.
-
   <h4 id="lindsey-grande"><a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a></h4>  
 
   <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
