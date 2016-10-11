@@ -40,4 +40,4 @@ No stranger to the Form Function & Class conference, <a href="http://foobartel.c
 
 ### Programme
 
-October 23 reminders: check-in registration starts at 9:00 am, doors close at 9:50 am, and the masterclass shall begin at 10:00 am. Please refer to the rest of our <a href="/reminders/">reminders here</a>.
+October 23 reminders: check-in registration starts at 8:30 am, doors close at 9:50 am, and the masterclass shall begin at 10:00 am. Please refer to the rest of our <a href="/reminders/">reminders here</a>.

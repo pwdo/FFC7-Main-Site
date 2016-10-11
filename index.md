@@ -23,6 +23,8 @@ Student discounts, group discounts, offline payment available. <a target="_blank
 <p class="sponsor-row">
     <a class="partner" target="_blank" href="https://www.pangalan.com"><img src="/assets/partner-pangalan.png" alt="Pangalan.com" height="60"></a>
     <a class="partner" target="_blank" href="https://www.z.com"><img src="/assets/partner-z.png" alt="Z.com" height="50"></a>
+    <a class="partner" target="_blank" href="http://humanfactors.com/"><img src="/assets/partner-humanfactorsintl.png" alt="Human Factors International" height="50"></a>
+    <a class="partner" target="_blank" href="http://pcci.com.ph/"><img src="/assets/partner-pcci.png" alt="Philippine Center for Creative Imaging" height="50"></a>
 </p>
 
 <p class="sponsor-row">
@@ -36,7 +38,7 @@ Student discounts, group discounts, offline payment available. <a target="_blank
     <a class="partner" target="_blank" href="https://web.design/"><img src="/assets/partner-dotdesign.png" alt=".design" height="50"></a> 
     <a class="partner" target="_blank" href="http://www.axure.com/"><img src="/assets/partner-axure.png" alt="Axure" height="25"></a> 
     <a class="partner" target="_blank" href="https://sketchapp.com/"><img src="/assets/partner-sketch.png" alt="Sketch" height="35"></a> 
-    <a class="partner" target="_blank" href="https://teradoor.com/"><img src="/assets/partner-teradoor.png" alt="Teradoor" height="50"></a>     
+    <a class="partner" target="_blank" href="http://www.teradoor.com/"><img src="/assets/partner-teradoor.png" alt="Teradoor" height="50"></a>     
     
     <a class="partner" target="_blank" href="https://zeplin.io"><img src="/assets/partner-zeplin.png" alt="Zeplin" height="40"></a> 
     <a class="partner" target="_blank" href="http://pragprog.com/"><img src="/assets/partner-pragprog.png" alt="The Pragmatic Bookshelf" height="45"></a> 
