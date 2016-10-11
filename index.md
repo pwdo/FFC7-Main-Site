@@ -36,7 +36,7 @@ Student discounts, group discounts, offline payment available. <a target="_blank
     <a class="partner" target="_blank" href="https://web.design/"><img src="/assets/partner-dotdesign.png" alt=".design" height="50"></a> 
     <a class="partner" target="_blank" href="http://www.axure.com/"><img src="/assets/partner-axure.png" alt="Axure" height="25"></a> 
     <a class="partner" target="_blank" href="https://sketchapp.com/"><img src="/assets/partner-sketch.png" alt="Sketch" height="35"></a> 
-    <a class="partner" target="_blank" href="https://teradoor.com/"><img src="/assets/partner-teradoor.png" alt="Teradoor" height="50"></a>     
+    <a class="partner" target="_blank" href="http://www.teradoor.com/"><img src="/assets/partner-teradoor.png" alt="Teradoor" height="50"></a>     
     
     <a class="partner" target="_blank" href="https://zeplin.io"><img src="/assets/partner-zeplin.png" alt="Zeplin" height="40"></a> 
     <a class="partner" target="_blank" href="http://pragprog.com/"><img src="/assets/partner-pragprog.png" alt="The Pragmatic Bookshelf" height="45"></a> 

@@ -71,7 +71,7 @@ You’ll hear from amazing speakers who are the best in the business. Not only a
 
 ### Can I pay offline? 
 
-Yes! The following rates are available this September: 
+Yes! The following rates are available until October 16: 
 
 - Conference (Oct 22) - 4,000 
 - Masterclass (Oct 23) - 3,250 
