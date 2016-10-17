@@ -33,9 +33,9 @@ hide-in-nav: yes
 
     For the Conference on October 22, bringing your laptop is not required, but you can do so.
 
-    For the Masterclass on October 23, we highly recommend bringing your laptop.
+    For the Masterclass on October 23, bringing your laptop is required as there will be hands-on activities. 
 
-    Internet and extension cords will be available at the venue, but if you want to play it safe, make sure your gadgets are fully charged and you have a reliable source of internet as well.
+    Internet and a limited number of extension cords will be available at the venue. If you want to play it safe, make sure you have a reliable source of power and internet for your devices. 
 
 -   ## Dress Code 
 
@@ -53,10 +53,12 @@ hide-in-nav: yes
 
 -   ## Smoking 
 
-    Smoking areas are available on the 6th floor garden/jacuzzi area and outside the Hotel entrance. 
+    Smoking areas are available on the 6th floor garden/jacuzzi area and outside the hotel entrance. 
 
--   ## Get Crafty! 
+-   ## Get Crafty & Social! 
 
-    Bring your pens and other art supplies, we encourage doodling and sketching at the event! 
+    Our hashtag for the event is #FFCPH, we'd love to hear from you! Don't forget to follow PWDO & FFC on your favorite social networks for timely & important updates.
+
+    Also, bring your pens and other art supplies because we highly encourage doodling and sketching and sharing!
 
 For additional questions, you can [visit our FAQ](/about/#faq) or email us: info@pwdo.org 
