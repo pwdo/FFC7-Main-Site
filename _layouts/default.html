@@ -18,7 +18,8 @@
       {% comment %}/// otherwise, display normal navigation ///{% endcomment %}
       {% else %}
         <ul>
-          <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li>
+          <!-- <li class="nav-register"><a class="page-link" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets" target="_blank">REGISTER NOW</a></li> -->
+          <li class="nav-register"><a class="page-link" href="/reminders/">REMINDERS</a></li>
 
           {% assign pages = site.pages | sort:"weight" %}
           {% for thispage in pages %}

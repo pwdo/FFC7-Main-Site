@@ -45,16 +45,23 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
   <figure class="speaker-img"><img src="/assets/speaker-russell.png" alt="Lindsey Grande"></figure> 
 
   He sold his first PUTO when he was six. He worked as a waiter for Burgoo, and as an In-room dining assistant at Sheraton Park Hotel. In London.  He’s an only child, so he’s kinda spoiled. He was 80 pounds lighter, nung hindi pa uso ang extra rice. He studied 7 courses 7 different schools. But he never graduated. He’s not very bright kasi. But he’s very madiskarte. He’s Russell. The Big Daddy of Vigi.
+  
+  <h4 id="angela-obias"><a target="_blank" href="https://angelaobias.wordpress.com/">Angela Obias</a></h4>
+
+  <figure class="speaker-img"><img src="/assets/speaker-angela.png" alt="Angela Obias"></figure> 
+
+  Angela Obias is a consultant and co-founder of Priority Studios (a design research consultancy), teacher at the Ateneo De Manila University and product design mentor for startup incubator Ideaspace Foundation. As a consultant, she has done testing for FinTech and e-commerce platforms, including top UK startup WorldRemit. Her writing about the User Experience, digital and content strategy fields have been shared by Justin Mifsud (“Usability Geek”), Paul Olyslager, Playbuzz Publishers and Content Insight.
+
 
 ## Afternoon Sessions
 
-- <h3 id="deane-miguel"><a target="_blank" href="http://www.serious-studio.com/">Deane Miguel</a></h3>
+- <h3 id="lester-cruz"><a target="_blank" href="http://www.serious-studio.com/">Lester Cruz</a></h3>
 
   #### Creating Brand Experiences For Real Human Beings
 
-  <figure class="speaker-img"><img src="/assets/speaker-deane.png" alt="Deane Miguel"></figure> 
+  <figure class="speaker-img"><img src="/assets/speaker-lester.png" alt="Lester Cruz"></figure> 
 
-  Deane Miguel is co-founder and client whisperer of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
+  Lester Cruz is co-founder and brand strategist of Serious Studio, which creates brand identities, strategies, communications, websites, experiences, and other big words all in their cozy office in Manila. Serious Studio believes that effective communication happens when you Make Sense and Look Good.
 
 - <h3 id="mika-aldaba"><a target="_blank" href="http://mika.ph">Mika Aldaba</a></h3>
 
@@ -82,5 +89,4 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
 
 - ### Panel: Speaker Q&A
 
-  <a href="#deane-miguel">Deane</a>, <a href="#kendra-schaefer">Kendra</a>, <a href="#sam-lorraine-chan">Sam</a>, <a href="#mika-aldaba">Mika</a>, <a href="#chris-lienert">Chris</a>, and <a href="#sacha-greif">Sacha</a> will take questions from the audience.
-
+  <a href="#lester-cruz">Lester</a>, <a href="#kendra-schaefer">Kendra</a>, <a href="#sam-lorraine-chan">Sam</a>, <a href="#mika-aldaba">Mika</a>, <a href="#chris-lienert">Chris</a>, and <a href="#sacha-greif">Sacha</a> will take questions from the audience.
