@@ -16,7 +16,7 @@ Learn from the brightest minds in design & front-end at the \<form\> function() 
 
 FFC topics include HTML, CSS, JS, Design, UX, Mobile, Business, and more—you'll take home the latest ideas, tools, techniques, processes, and workflows to better your craft and advance your career. Plus, you get to mingle with fellow devs & designers, pick the brains of our speakers, and be in an environment that's ripe for exploring new collaborations & opportunities! Need to convince your boss? <a href="/convince/">We got that covered</a>.
 
-Student discounts, group discounts, offline payment available. <a target="_blank" href="https://www.eventbrite.com/e/form-function-class-7-conference-tickets-24640606718#tickets">Get your tickets now</a> before registration closes on October 16!
+Please take note of these important <a href="/reminders/">reminders</a> for the event!
 
 <p id="sponsors">FFC is made possible with the help of our <a target="_blank" href="sponsor.pdf">partners</a>:</p>
 
@@ -25,6 +25,7 @@ Student discounts, group discounts, offline payment available. <a target="_blank
     <a class="partner" target="_blank" href="https://www.z.com"><img src="/assets/partner-z.png" alt="Z.com" height="50"></a>
     <a class="partner" target="_blank" href="http://humanfactors.com/"><img src="/assets/partner-humanfactorsintl.png" alt="Human Factors International" height="50"></a>
     <a class="partner" target="_blank" href="http://pcci.com.ph/"><img src="/assets/partner-pcci.png" alt="Philippine Center for Creative Imaging" height="50"></a>
+    <a class="partner" target="_blank" href="http://aelogica.com/"><img src="/assets/partner-aelogica.png" alt="Aelogica" height="35"></a>
 </p>
 
 <p class="sponsor-row">
