@@ -45,9 +45,11 @@ hide-in-nav: yes
 
     Snacks and lunch are included in your ticket, as well as free-flowing coffee & tea. 
 
--   ## Transportation 
+-   ## Transportation
 
     Uber has a special promo code for new users who are FFC participants! Enter "FFCPH" in the Promotions tab in the app from October 22 (12:59 am) to October 23 (11:59 pm) to enjoy a 100-peso discount for the first two rides (applies to UberX, UberPool, UberHop).
+
+    If you're bringing a car, parking is available on the side streets of the hotel.
 
     For more Venue tips, [click here](/about/#venue).
 
@@ -55,7 +57,7 @@ hide-in-nav: yes
 
     Smoking areas are available on the 6th floor garden/jacuzzi area and outside the hotel entrance. 
 
--   ## Get Crafty & Social! 
+-   ## Get Crafty and Social! 
 
     Our hashtag for the event is #FFCPH, we'd love to hear from you! Don't forget to follow PWDO & FFC on your favorite social networks for timely & important updates.
 

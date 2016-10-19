@@ -34,6 +34,12 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
 
 - ### Panel: The Business of Design
 
+  <h4 id="jason-torres"><a target="_blank" href="http://www.jasontorres.com/">Jason Torres</a></h4> 
+
+  <figure class="speaker-img"><img src="/assets/speaker-jason.png" alt="Jason Torres"></figure> 
+
+  Jason has been leading Ruby on Rails engineering teams for many years and have successfully launched a couple of startups and dozens of internal and client products. He is a ruby developer and invents webtoys. He's been focusing on Ticketbase.com recently while also running MashupGarage, a new startup that focuses on high-end product development and technical leadership. He also owns Proudcloud, a Ruby on Rails service company with about 30+ Ruby on Rails engineers.
+
   <h4 id="lindsey-grande"><a target="_blank" href="http://www.lindseygrande.com/">Lindsey Grande</a></h4>  
 
   <figure class="speaker-img"><img src="/assets/speaker-lindsey.png" alt="Lindsey Grande"></figure> 
@@ -51,6 +57,26 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
   <figure class="speaker-img"><img src="/assets/speaker-angela.png" alt="Angela Obias"></figure> 
 
   Angela Obias is a consultant and co-founder of Priority Studios (a design research consultancy), teacher at the Ateneo De Manila University and product design mentor for startup incubator Ideaspace Foundation. As a consultant, she has done testing for FinTech and e-commerce platforms, including top UK startup WorldRemit. Her writing about the User Experience, digital and content strategy fields have been shared by Justin Mifsud (“Usability Geek”), Paul Olyslager, Playbuzz Publishers and Content Insight.
+
+## Lightning Talks
+
+- <h3 id="human-factors">Hitesh Agrawal, Human Factors Int'l</h3>
+
+  <figure class="lightning-img"><img src="/assets/lightning-hfi.png" alt="Hitesh Agrawal" width="100"></figure> 
+
+  As HFI's Chief Business Officer, Hitesh has 16+ years experience in applied human factors, usability engineering and user experience design consultancy services, and is responsible for a vast potential of HFI’s sales throughout Asia. He leads multidisciplinary & globally distributed project teams and mentors them.
+
+  <h3 id="pangalan-z">Pangalan.com / Z.com</h3>
+
+  Following the same brand footprint and level of excellence of its Japanese parent company GMO-Z.com and their #1 domain registrar, Pangalan.com brings in quality online services to Filipinos from domain registration to reliable web hosting, domain forwarding or website creation and management.
+
+  ### Aelogica
+
+  ÆLOGICA provides elite web and mobile development services specializing in Ruby on Rails to clients around the world from San Francisco, CA and Manila, Philippines.
+
+  ### Accenture 
+
+  Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations.
 
 
 ## Afternoon Sessions
