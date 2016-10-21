@@ -64,19 +64,19 @@ October 22 programme reminders: check-in registration starts at 7:30 am, doors w
 
   <figure class="lightning-img"><img src="/assets/lightning-hfi.png" alt="Hitesh Agrawal" width="100"></figure> 
 
-  As HFI's Chief Business Officer, Hitesh has 16+ years experience in applied human factors, usability engineering and user experience design consultancy services, and is responsible for a vast potential of HFI’s sales throughout Asia. He leads multidisciplinary & globally distributed project teams and mentors them.
+  HFI's Chief Business Officer will discuss How User Experience Can Transform Your Company into a Market Leader. Hitesh has 16+ years experience in applied human factors, usability engineering and user experience design consultancy services, and is responsible for a vast potential of HFI’s sales throughout Asia. He leads multidisciplinary & globally distributed project teams and mentors them.
 
-  <h3 id="pangalan-z">Pangalan.com / Z.com</h3>
+  <h3 id="pangalan-z">Julie Bulaklak, Pangalan/Z.com</h3>
 
-  Following the same brand footprint and level of excellence of its Japanese parent company GMO-Z.com and their #1 domain registrar, Pangalan.com brings in quality online services to Filipinos from domain registration to reliable web hosting, domain forwarding or website creation and management.
+  <figure class="lightning-img"><img src="/assets/lightning-pangalanz.png" alt="Julie Bulaklak" width="100"></figure> 
 
-  ### Aelogica
+  Pangalan's Business Development Manager will talk about Reaching Full Potential Through Strategic Planning. Following the same brand footprint and level of excellence of Japanese parent company GMO-Z.com and #1 domain registrar, Pangalan.com brings in quality online services to Filipinos from domain registration to reliable hosting, domain forwarding, site creation & management.
 
-  ÆLOGICA provides elite web and mobile development services specializing in Ruby on Rails to clients around the world from San Francisco, CA and Manila, Philippines.
+  ### Kindred Pasana, Aelogica 
 
-  ### Accenture 
+  <figure class="lightning-img"><img src="/assets/lightning-aelogica.png" alt="Kindred Pasana" width="100"></figure> 
 
-  Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations.
+  Aelogica's UI Designer will tell us about Great Software Teams. ÆLOGICA provides elite web and mobile development services specializing in Ruby on Rails to clients around the world from San Francisco, CA and Manila, Philippines.
 
 
 ## Afternoon Sessions
