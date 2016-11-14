@@ -1,17 +1,17 @@
 ---
-title: MiniFFC s2016e06 PWDOxUXPH Joint Meetup
-excerpt: September 7, 2016 at Globe Telepark Valero, Makati
+title: MiniFFC s2016e07 Web Designers Hugot Night
+excerpt: December 7, 2016 at NuWorks Interactive, Pasig 
 redirect:
-  - https://www.eventbrite.com/e/miniffc-s2016e06-pwdoxuxph-joint-meetup-tickets-27225964593
+  - https://www.eventbrite.com/e/miniffcs2016e07-web-designers-hugot-night-tickets-29269380505
 
 layout: curly
-main-color: blue
-border-color: red
+main-color: red
+border-color: blue
 free-color: white
 ---
 
-# MiniFFC s2016e06: PWDOxUXPH Joint Meetup
+# MiniFFC s2016e07: Web Designers Hugot Night
 
-## September 7, 2016 <br> 6:30 PM
+## December 7, 2016 at 7:30 PM
 
-## Globe Telepark <br> Valero, Makati
+### NuWorks Interactive Labs <br> One Corporate Centre, <br> Julia Vargas corner Meralco Ave. <br> Ortigas Center, Pasig 
