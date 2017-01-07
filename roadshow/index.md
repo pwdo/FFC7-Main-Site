@@ -1,15 +1,15 @@
 ---
-title: MiniFFC s2016e06 Roadshow
-excerpt: Coming this August 2016
-redirect:
+title: MiniFFC s20170e3 Roadshow
+excerpt: Coming this March 2017
+xredirect:
   - http://www.eventbrite.com/o/philippine-web-designers-organization-1337746129
 
 layout: curly
-main-color: blue
-border-color: red
-free-color: white
+main-color: yellow
+border-color: blue
+free-color: black
 ---
 
-# MiniFFC s2016e06: Roadshow
+# MiniFFC s2017e03: Roadshow Edition 
 
-## August 2016
+## Coming to Baguio this March!
