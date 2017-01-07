@@ -1,8 +1,8 @@
 ---
-title: MiniFFC s2016e07 Web Designers Hugot Night
-excerpt: December 7, 2016 at NuWorks Interactive, Pasig 
+title: MiniFFC s2017e01 Meetup Edition
+excerpt: January 18, 2017 at GMO-Z.COM, Makati
 redirect:
-  - https://www.eventbrite.com/e/miniffcs2016e07-web-designers-hugot-night-tickets-29269380505
+  - https://www.eventbrite.com/e/miniffcs2017e01-good-vs-great-understated-ux-details-tickets-30238833164
 
 layout: curly
 main-color: red
@@ -10,8 +10,8 @@ border-color: blue
 free-color: white
 ---
 
-# MiniFFC s2016e07: Web Designers Hugot Night
+# MiniFFC s2017e01: Meetup Edition
 
-## December 7, 2016 at 7:30 PM
+## Good vs. Great: Understated UX Details by April Damaso 
 
-### NuWorks Interactive Labs <br> One Corporate Centre, <br> Julia Vargas corner Meralco Ave. <br> Ortigas Center, Pasig 
+### January 18, 2017 at 7:00 PM <br> GMO-Z.COM Office <br> 23F Zuellig Bldg., Makati
