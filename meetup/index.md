@@ -1,6 +1,7 @@
 ---
 title: MiniFFC s2017e01 Meetup Edition
 excerpt: January 18, 2017 at GMO-Z.COM, Makati
+date: 2017-01-18
 redirect:
   - https://www.eventbrite.com/e/miniffcs2017e01-good-vs-great-understated-ux-details-tickets-30238833164
 

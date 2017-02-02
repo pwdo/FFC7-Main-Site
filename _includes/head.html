@@ -9,31 +9,46 @@
     {% else %}{{ site.title }} &bull; Web Design Conference in Asia &bull; {{ site.date }}
     {% endif %}
   </title>
+  
   {% comment %}/// if page.redirect value exists, redirect to said URL ///{% endcomment %}
-  {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
+  {% if page.redirect %}
+
+    {% comment %}/// if page.date value exists, enable/disable redirect depending on whether event is over ///{% endcomment %}
+    {% if page.date %}
+      {% capture nowdate %}{{ 'now' | date: '%s' }}{% endcapture %}
+      {% capture eventdate %}{{ page.date | date: '%s' }}{% endcapture %}
+      {% if nowdate <= eventdate %} 
+        <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+      {% endif %}
+    {% else %}
+      <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+    {% endif %}
+
+  {% endif %}
   
   <link rel="icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.url }}" type="image/png"/>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   
   {% if page.redirect %}
-  <meta property="og:title"  content="{{ page.title }}">
-  <meta name="twitter:title" content="{{ page.title }}">
+    <meta property="og:title"  content="{{ page.title }}">
+    <meta name="twitter:title" content="{{ page.title }}">
 
-  <link rel="canonical"      href="{{ page.redirect }}">
-  <meta property="og:url" content="{{ page.redirect }}">
+    <link rel="canonical"      href="{{ page.redirect }}">
+    <meta property="og:url" content="{{ page.redirect }}">
   {% else %}
-  <meta property="og:title"  content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
-  <meta name="twitter:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
+    <meta property="og:title"  content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
+    <meta name="twitter:title" content="{{ site.title }} • Web Design Conference in Asia • {{ site.date }}">
 
-  <meta property="og:image"      content="{{ "/ogimage.png" | prepend: site.url }}">
-  <meta name="twitter:image:src" content="{{ "/ogimage.png" | prepend: site.url }}">
-  <meta property="og:image:type" content="image/png">
-  <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image"      content="{{ "/ogimage.png" | prepend: site.url }}">
+    <meta name="twitter:image:src" content="{{ "/ogimage.png" | prepend: site.url }}">
+    <meta property="og:image:type" content="image/png">
+    <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:url" content="{{ site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:url" content="{{ site.url }}">
   {% endif %}
+  
   <meta name="description"         content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:description"  content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
